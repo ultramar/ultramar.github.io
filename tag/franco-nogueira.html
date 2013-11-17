@@ -21,6 +21,7 @@
   <!-- jQuery and plugins -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script src="http://ultramar.github.io/theme/js/jquery.zclip.min.js"></script>
+  <script src="http://ultramar.github.io/theme/js/jquery.lettering-0.6.min.js"></script>
 
 
   <link href='http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic|Quando&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -38,7 +39,10 @@
     <img class="title-image" alt="Portvgal" src="http://ultramar.github.io/theme/images/cristo_simples.svg" width="200px"> 
 </div> <!-- // .navi -->
 <footer>
-    <p>fragmentos de política ultramarina portuguesa</p>
+    <div class="subtitulo"><p><code>FRAGMENTOS DE POLÍTICA ULTRAMARINA PORTUGUESA</code></p></div>
+    <div>
+        <img class="rol-image" alt="Rosa dos ventos" src="http://ultramar.github.io/theme/images/rosa.png" width="30px">
+    </div>
     <!-- <img class="rol-image" alt="Rosa dos ventos" src="http://ultramar.github.io/theme/images/rosa.svg" width="100px"> -->
 </footer></header>
   <div id="main">
@@ -46,7 +50,6 @@
 <div class="blog-index">
   		<article>
 <header id="titulo">
-    <img class="rol-image" alt="Rosa dos ventos" src="http://ultramar.github.io/theme/images/rosa.svg" width="70px"> 
         <h1>
             <a href="http://ultramar.github.io/franco-nogueira-notas-da-visita-do-embaixador-americano-a-africa-portuguesa.html#titulo">Franco Nogueira: notas da visita do embaixador americano à África portuguesa</a>
         </h1>
@@ -71,7 +74,6 @@ aos
 <div class="fleuron-article"></div>  		</article>
   		<article>
 <header id="titulo">
-    <img class="rol-image" alt="Rosa dos ventos" src="http://ultramar.github.io/theme/images/rosa.svg" width="70px"> 
         <h1>
             <a href="http://ultramar.github.io/franco-nogueira-uma-sintese-do-problema-ultramarino.html#titulo">Franco Nogueira: uma síntese do problema ultramarino</a>
         </h1>
@@ -136,4 +138,10 @@ aos
     }());
 </script>  </div> <!-- // .wrap -->
 </body>
+<script>
+    $(document).ready(function () {
+        $(".subtitulo").lettering();
+        $(".title").lettering();
+    });
+</script>
 </html>

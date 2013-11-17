@@ -21,6 +21,7 @@
   <!-- jQuery and plugins -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script src="http://ultramar.github.io/theme/js/jquery.zclip.min.js"></script>
+  <script src="http://ultramar.github.io/theme/js/jquery.lettering-0.6.min.js"></script>
 
 
   <link href='http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic|Quando&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -38,12 +39,15 @@
     <img class="title-image" alt="Portvgal" src="http://ultramar.github.io/theme/images/cristo_simples.svg" width="200px"> 
 </div> <!-- // .navi -->
 <footer>
-    <p>fragmentos de política ultramarina portuguesa</p>
+    <div class="subtitulo"><p><code>FRAGMENTOS DE POLÍTICA ULTRAMARINA PORTUGUESA</code></p></div>
+    <div>
+        <img class="rol-image" alt="Rosa dos ventos" src="http://ultramar.github.io/theme/images/rosa.png" width="30px">
+    </div>
     <!-- <img class="rol-image" alt="Rosa dos ventos" src="http://ultramar.github.io/theme/images/rosa.svg" width="100px"> -->
 </footer></header>
   <div id="main">
     <div id="content">
-    <h1>Authors on Ultramar</h1>        <li><a href="http://ultramar.github.io/author/henrique.html">Henrique</a> (4)</li>
+    <h1>Authors on Ultramar</h1>        <li><a href="http://ultramar.github.io/author/henrique.html">Henrique</a> (5)</li>
     </div>
   </div>
   <footer role="contentinfo"><p>
@@ -82,4 +86,10 @@
     }());
 </script>  </div> <!-- // .wrap -->
 </body>
+<script>
+    $(document).ready(function () {
+        $(".subtitulo").lettering();
+        $(".title").lettering();
+    });
+</script>
 </html>

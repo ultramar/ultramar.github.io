@@ -21,6 +21,7 @@
   <!-- jQuery and plugins -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script src="http://ultramar.github.io/theme/js/jquery.zclip.min.js"></script>
+  <script src="http://ultramar.github.io/theme/js/jquery.lettering-0.6.min.js"></script>
 
 
   <link href='http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic|Quando&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -38,7 +39,10 @@
     <img class="title-image" alt="Portvgal" src="http://ultramar.github.io/theme/images/cristo_simples.svg" width="200px"> 
 </div> <!-- // .navi -->
 <footer>
-    <p>fragmentos de política ultramarina portuguesa</p>
+    <div class="subtitulo"><p><code>FRAGMENTOS DE POLÍTICA ULTRAMARINA PORTUGUESA</code></p></div>
+    <div>
+        <img class="rol-image" alt="Rosa dos ventos" src="http://ultramar.github.io/theme/images/rosa.png" width="30px">
+    </div>
     <!-- <img class="rol-image" alt="Rosa dos ventos" src="http://ultramar.github.io/theme/images/rosa.svg" width="100px"> -->
 </footer></header>
   <div id="main">
@@ -53,6 +57,16 @@
 		    	<h2>2013</h2>
 	    				<article>
 		    				<h1><a href="franco-nogueira-notas-da-visita-do-embaixador-americano-a-africa-portuguesa.html">Franco Nogueira: notas da visita do embaixador americano à África&nbsp;portuguesa</a></h1>
+			    			<time datetime="2013-10-31T08:21:00" pubdate>31 de Outubro de 2013</time>
+	    					<footer>
+		    					<span class="categories">publicado sobre 
+			    					<a class='category' href='/category/ultramar.html'>Ultramar</a>
+				    				
+					    		</span>
+    						</footer>
+	    				</article>
+	    				<article>
+		    				<h1><a href="pieter-lessing-substitute-for-an-introduction.html">Pieter Lessing: Substitute for an&nbsp;Introduction</a></h1>
 			    			<time datetime="2013-10-31T08:21:00" pubdate>31 de Outubro de 2013</time>
 	    					<footer>
 		    					<span class="categories">publicado sobre 
@@ -132,4 +146,10 @@
     }());
 </script>  </div> <!-- // .wrap -->
 </body>
+<script>
+    $(document).ready(function () {
+        $(".subtitulo").lettering();
+        $(".title").lettering();
+    });
+</script>
 </html>
