@@ -34,6 +34,7 @@
   (vec
     (concat
       (assets/load-assets "public" [#".+\.(css|js|png|jpg|svg|ico|woff|woff2)$"])
+      (assets/load-assets "public" [#"CNAME"])
       (assets/load-assets "posts" [#".+\.(css|js|png|jpg|svg|woff|woff2)$"])
       ;(assets/load-assets "livros" [#".+\.(css|js|png|jpg|svg|woff)$"])
       )))
