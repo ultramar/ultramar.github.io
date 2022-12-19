@@ -1,0 +1,84 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      225}
+ :notes  ["A entrada 1962,O.P.V.D.C.,87210 inclui despesas com a colheita do café e, portanto, salários a trabalhadores"]
+ :data   [{"Ano"                1961
+           "Serviço"            "Administração Civil"
+           "Efectivos"          702
+           "Orçamento (contos)" 63034}
+          {"Ano"                1962
+           "Serviço"            "Administração Civil"
+           "Efectivos"          657
+           "Orçamento (contos)" 78101}
+          {"Ano"                1966
+           "Serviço"            "Administração Civil"
+           "Efectivos"          1153
+           "Orçamento (contos)" 109581}
+
+          {"Ano"                1961
+           "Serviço"            "Polícia Judiciária"
+           "Efectivos"          61
+           "Orçamento (contos)" 2921}
+          {"Ano"                1962
+           "Serviço"            "Polícia Judiciária"
+           "Efectivos"          82
+           "Orçamento (contos)" 3854}
+          {"Ano"                1966
+           "Serviço"            "Polícia Judiciária"
+           "Efectivos"          150
+           "Orçamento (contos)" 6833}
+
+          {"Ano"                1961
+           "Serviço"            "Polícia Internacional"
+           "Efectivos"          148
+           "Orçamento (contos)" 5810}
+          {"Ano"                1962
+           "Serviço"            "Polícia Internacional"
+           "Efectivos"          160
+           "Orçamento (contos)" 8327}
+          {"Ano"                1966
+           "Serviço"            "Polícia Internacional"
+           "Efectivos"          361
+           "Orçamento (contos)" 17329}
+
+          {"Ano"                1961
+           "Serviço"            "Polícia de Segurança Pública"
+           "Efectivos"          1536
+           "Orçamento (contos)" 38787}
+          {"Ano"                1962
+           "Serviço"            "Polícia de Segurança Pública"
+           "Efectivos"          2836
+           "Orçamento (contos)" 51801}
+          {"Ano"                1966
+           "Serviço"            "Polícia de Segurança Pública"
+           "Efectivos"          3592
+           "Orçamento (contos)" 105374}
+
+          {"Ano"                1961
+           "Serviço"            "O.P.V.D.C."
+           "Efectivos"          nil
+           "Orçamento (contos)" 48120}
+          {"Ano"                1962
+           "Serviço"            "O.P.V.D.C."
+           "Efectivos"          786
+           "Orçamento (contos)" 87210}
+          {"Ano"                1966
+           "Serviço"            "O.P.V.D.C."
+           "Efectivos"          1050
+           "Orçamento (contos)" 58713}
+
+          {"Ano"                1961
+           "Serviço"            "S.C.C.I.A."
+           "Efectivos"          1
+           "Orçamento (contos)" 117}
+          {"Ano"                1962
+           "Serviço"            "S.C.C.I.A."
+           "Efectivos"          52
+           "Orçamento (contos)" 2000}
+          {"Ano"                1966
+           "Serviço"            "S.C.C.I.A."
+           "Efectivos"          81
+           "Orçamento (contos)" 5300}
+          ]}

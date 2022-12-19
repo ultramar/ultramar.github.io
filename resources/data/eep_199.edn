@@ -1,0 +1,85 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      199}
+ :notes  ["Os números do Quadro anterior são retirados da Estatística da Educação do ano lectivo de 1964/65, acabada de publicar, a qual constitui, segundo se crê, a mais completa do nosso Ultramar."]
+ :data   [{"Item"            "Estabelecimentos"
+           "Ano"             "1961/1962"
+           "Ensino Primário" 2031
+           "Todo o Ensino"   2131}
+          {"Item"            "Estabelecimentos"
+           "Ano"             "1964/1965"
+           "Ensino Primário" 2561
+           "Todo o Ensino"   2704}
+          {"Item"            "Estabelecimentos"
+           "Ano"             "1965/1966"
+           "Ensino Primário" 2660
+           "Todo o Ensino"   2819}
+
+          {"Item"            "Pessoal docente"
+           "Ano"             "1961/1962"
+           "Ensino Primário" 3143
+           "Todo o Ensino"   4152}
+          {"Item"            "Pessoal docente"
+           "Ano"             "1964/1965"
+           "Ensino Primário" 4549
+           "Todo o Ensino"   6129}
+          {"Item"            "Pessoal docente"
+           "Ano"             "1965/1966"
+           "Ensino Primário" 4992
+           "Todo o Ensino"   6708}
+
+          {"Item"            "Alunos matriculados"
+           "Ano"             "1961/1962"
+           "Ensino Primário" 112326
+           "Todo o Ensino"   129066}
+          {"Item"            "Alunos matriculados"
+           "Ano"             "1964/1965"
+           "Ensino Primário" 203377
+           "Todo o Ensino"   231510}
+          {"Item"            "Alunos matriculados"
+           "Ano"             "1965/1966"
+           "Ensino Primário" 222326
+           "Todo o Ensino"   255690}
+
+          {"Item"            "Número de alunos por professor"
+           "Ano"             "1961/1962"
+           "Ensino Primário" 35
+           "Todo o Ensino"   31}
+          {"Item"            "Número de alunos por professor"
+           "Ano"             "1964/1965"
+           "Ensino Primário" 45
+           "Todo o Ensino"   38}
+          {"Item"            "Número de alunos por professor"
+           "Ano"             "1965/1966"
+           "Ensino Primário" 44
+           "Todo o Ensino"   38}
+
+
+          {"Item"            "Percentagem de aproveitamento"
+           "Ano"             "1961/1962"
+           "Ensino Primário" 48
+           "Todo o Ensino"   51}
+          {"Item"            "Percentagem de aproveitamento"
+           "Ano"             "1964/1965"
+           "Ensino Primário" 54
+           "Todo o Ensino"   55}
+          {"Item"            "Percentagem de aproveitamento"
+           "Ano"             "1965/1966"
+           "Ensino Primário" 55
+           "Todo o Ensino"   55}
+
+          {"Item"            "Percentagem de alunos do sexo feminino em relação ao total"
+           "Ano"             "1961/1962"
+           "Ensino Primário" 35
+           "Todo o Ensino"   nil}
+          {"Item"            "Percentagem de alunos do sexo feminino em relação ao total"
+           "Ano"             "1964/1965"
+           "Ensino Primário" 31
+           "Todo o Ensino"   33}
+          {"Item"            "Percentagem de alunos do sexo feminino em relação ao total"
+           "Ano"             "1965/1966"
+           "Ensino Primário" 32
+           "Todo o Ensino"   33}
+          ]}

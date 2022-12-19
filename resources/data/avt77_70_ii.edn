@@ -1,0 +1,31 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      70
+          :ordinal   2},
+ :title  "BAIXAS DAS FORÇAS ARMADAS - MÉDIAS"
+ :notes  ["V QUADRO"
+          "Durante a guerra nos 3 Teatros de Operações"
+          "nota ref. à média 'Por dia de guerra':  Contaram-se 4016 dias de guerra na Guiné, 4746 em Angola e 3647 em Moçambique e utilizou-se o valor médio de 4076."
+          "nota ref. à média 'Por dia de guerra e mil combatentes': De 1961 a 1973, os efectivos nos 3 Teatros de Operações somaram 1 392 230 homens, o que corresponde a uma média anual de 107 095 homens (ver III Quadro). Os índices foram calculados para esta média anual e para a duração média de guerra de 4 076 dias."
+          "nota ref. à média 'Por dia de guerra e mil combatentes' para 'Mortos em combate' e 'Feridos em combate': Segundo o «Field Manual 101-10-1» de 1972 do Exército dos Estados Unidos, e com base em dados da II G.G. na Europa, os índices correspondentes para um Teatro de Operações em guerra clássica não nuclear, são 0.14, 0.55 e 1.62 (Quadro 4-10, p. 441). A aplicação destes índices aos efectivos e à duração da Guerra do Ultramar daria um total de 61112 mortos em combate, 240083 feridos em combate e 707154 feridos por acidente e doentes."
+          "nota ref. à coluna 'Deficientes': Número de processos de invalidez organizados, ou em vias de organização, por acidente, em serviço e em combate; no Exército, até 31 de Julho 74. Não se obtiveram números relativos à Armada e à Força Aérea,"
+          ],
+ :data   [{"Média"                     "Por dia de guerra",
+           "Mortos em combate"         0.8,
+           "Mortos por outros motivos" 0.75,
+           "Feridos em combate"        3.16,
+           "Feridos por acidente"      3.69,
+           "Doentes"                   20.68,
+           "Deficientes"               0.94}
+          {"Média"                     "Por dia de guerra e mil combatentes",
+           "Mortos em combate"         0.0075,
+           "Mortos por outros motivos" 0.007,
+           "Feridos em combate"        0.03,
+           "Feridos por acidente"      0.034,
+           "Doentes"                   0.19,
+           "Deficientes"               0.0088}]}

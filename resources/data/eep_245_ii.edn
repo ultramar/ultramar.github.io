@@ -1,0 +1,56 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      245
+          :ordinal   2}
+ :notes  ["Registamos os números relativos à Balança Comercial da Província, nos últimos anos (em milhares de contos)"]
+ :data   [{"Ano"        1955
+           "Exportação" 2805
+           "Importação" 2688
+           "Saldos"     117
+           "Volume"     5493
+           }
+          {"Ano"        1960
+           "Exportação" 3565
+           "Importação" 3670
+           "Saldos"     -105
+           "Volume"     7235
+           }
+          {"Ano"        1961
+           "Exportação" 3874
+           "Importação" 3268
+           "Saldos"     606
+           "Volume"     7142
+           }
+          {"Ano"        1962
+           "Exportação" 4264
+           "Importação" 3898
+           "Saldos"     366
+           "Volume"     8162
+           }
+          {"Ano"        1963
+           "Exportação" 4212
+           "Importação" 4212
+           "Saldos"     472
+           "Volume"     8896
+           }
+          {"Ano"        1964
+           "Exportação" 5868
+           "Importação" 4714
+           "Saldos"     1154
+           "Volume"     10582
+           }
+          {"Ano"        1965
+           "Exportação" 5747
+           "Importação" 5601
+           "Saldos"     146
+           "Volume"     11348
+           }
+          {"Ano"        1966
+           "Exportação" 6359
+           "Importação" 6003
+           "Saldos"     356
+           "Volume"     12362
+           }
+          ]}

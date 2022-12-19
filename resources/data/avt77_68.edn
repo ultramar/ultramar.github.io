@@ -1,0 +1,76 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      68},
+ :title  "BAIXAS DAS FORÇAS ARMADAS EM MORTOS, FERIDOS E DOENTES, ATÉ 1 DE MAIO DE 1974"
+ :notes  ["IV QUADRO"
+          "Fonte: Documentos Oficiais"
+          "nota ref. ao título: Contadas para a Guiné desde 1 de Maio 63, para Angola desde 1 de Maio 61, para Moçambique desde 1 de Novembro 64."
+          "nota ref. à coluna 'Mortos por outros motivos': «Outros motivos» incluem acidentes de viação, acidentes com armas, outros acidentes, doenças e desaparecidos"],
+ :data   [{"Teatro"                    "Guiné",
+           "Ramo das Forças Armadas"   "Armada",
+           "Mortos em combate"         42,
+           "Mortos por outros motivos" 51,
+           "Feridos em combate"        376,
+           "Feridos por acidente"      122,
+           "Doentes"                   751}
+          {"Teatro"                    "Guiné",
+           "Ramo das Forças Armadas"   "Exército",
+           "Mortos em combate"         981,
+           "Mortos por outros motivos" 690,
+           "Feridos em combate"        5522,
+           "Feridos por acidente"      2014,
+           "Doentes"                   15360}
+          {"Teatro"                    "Guiné",
+           "Ramo das Forças Armadas"   "Força Aérea",
+           "Mortos em combate"         55,
+           "Mortos por outros motivos" 50,
+           "Feridos em combate"        263,
+           "Feridos por acidente"      31,
+           "Doentes"                   351}
+          {"Teatro"                    "Angola",
+           "Ramo das Forças Armadas"   "Armada",
+           "Mortos em combate"         13,
+           "Mortos por outros motivos" 59,
+           "Feridos em combate"        71,
+           "Feridos por acidente"      194,
+           "Doentes"                   784}
+          {"Teatro"                    "Angola",
+           "Ramo das Forças Armadas"   "Exército",
+           "Mortos em combate"         1088,
+           "Mortos por outros motivos" 1344,
+           "Feridos em combate"        4205,
+           "Feridos por acidente"      6303,
+           "Doentes"                   36272}
+          {"Teatro"                    "Angola",
+           "Ramo das Forças Armadas"   "Força Aérea",
+           "Mortos em combate"         41,
+           "Mortos por outros motivos" 126,
+           "Feridos em combate"        196,
+           "Feridos por acidente"      98,
+           "Doentes"                   342}
+          {"Teatro"                    "Moçambique",
+           "Ramo das Forças Armadas"   "Armada",
+           "Mortos em combate"         14,
+           "Mortos por outros motivos" 15,
+           "Feridos em combate"        27,
+           "Feridos por acidente"      50,
+           "Doentes"                   294}
+          {"Teatro"                    "Moçambique",
+           "Ramo das Forças Armadas"   "Exército",
+           "Mortos em combate"         970,
+           "Mortos por outros motivos" 646,
+           "Feridos em combate"        2149,
+           "Feridos por acidente"      6030,
+           "Doentes"                   29514}
+          {"Teatro"                    "Moçambique",
+           "Ramo das Forças Armadas"   "Força Aérea",
+           "Mortos em combate"         55,
+           "Mortos por outros motivos" 94,
+           "Feridos em combate"        69,
+           "Feridos por acidente"      199,
+           "Doentes"                   618}]}

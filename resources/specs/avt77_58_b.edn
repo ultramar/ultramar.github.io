@@ -1,0 +1,48 @@
+{:$schema   "https://vega.github.io/schema/vega-lite/v5.json",
+ :title     {:text   "Despesas com as Forças Armadas"
+             :anchor "middle"
+             :offset 20}
+ :data      {:url nil}
+ :config    {:legend {:labelLimit 1000}
+             :axis   {:labelAngle 0}}
+ :transform [{:calculate "datum['Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar'] - datum['Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra']"
+              :as        "Despesa imputável à situação de guerra"}
+             {:calculate "datum['Despesas Públicas de Portugal (Europa)'] + datum['Despesas Públicas de Guiné, Angola e Moçambique']"
+              :as        "Despesa pública total"}
+             {:calculate "datum['Despesa pública total'] - datum['Despesa imputável à situação de guerra']"
+              :as        "Restante despesa pública"}
+
+             {:fold ["Despesa imputável à situação de guerra"
+                     "Restante despesa pública"]
+              :as   ["Parcela" "Valor"]}]
+ :hconcat   [{:encoding {:x     {:field "Ano"}
+                         :y     {:field "Valor",
+                                 :type  :quantitative
+                                 :stack :normalize
+                                 :axis  {:format ".1~%"}
+                                 :title nil},
+                         :order {:field "Valor"}
+                         :color {:field  "Parcela"
+                                 :scale  {:range ["#d6616b"
+                                                  "#f2f2f2"]}
+                                 :legend {:orient    :bottom
+                                          :direction :vertical}}},
+              :title    "Anual"
+              :width    450
+              :mark     {:type    "bar"
+                         :tooltip true}}
+
+             {:encoding {:y     {:field     "Valor",
+                                 :type      :quantitative
+                                 :aggregate "sum"
+                                 :stack     :normalize
+                                 :axis      {:format ".1~%"}
+                                 :title     nil},
+                         :order {:field     "Valor"
+                                 :aggregate "sum"}
+                         :color {:field  "Parcela"
+                                 :legend {:orient    :bottom
+                                          :direction :vertical}}},
+              :title    "Total"
+              :mark     {:type    "bar"
+                         :tooltip true}}]}

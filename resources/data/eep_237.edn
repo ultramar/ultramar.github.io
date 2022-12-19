@@ -1,0 +1,92 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      237}
+ :title  "PESCA DESEMBARCADA E PRODUÇÃO (milhares de contos)"
+ :data   [{"Ano"        1955
+           "Designação" "Pesca desembarcada"
+           "Valor"      169}
+          {"Ano"        1960
+           "Designação" "Pesca desembarcada"
+           "Valor"      129}
+          {"Ano"        1961
+           "Designação" "Pesca desembarcada"
+           "Valor"      142}
+          {"Ano"        1962
+           "Designação" "Pesca desembarcada"
+           "Valor"      153}
+          {"Ano"        1963
+           "Designação" "Pesca desembarcada"
+           "Valor"      153}
+          {"Ano"        1964
+           "Designação" "Pesca desembarcada"
+           "Valor"      221}
+          {"Ano"        1965
+           "Designação" "Pesca desembarcada"
+           "Valor"      178}
+          {"Ano"        1966
+           "Designação" "Pesca desembarcada"
+           "Valor"      219}
+
+          {"Ano"        1960
+           "Designação" "Conservas (incluindo o peixe seco)"
+           "Valor"      105}
+          {"Ano"        1962
+           "Designação" "Conservas (incluindo o peixe seco)"
+           "Valor"      100}
+          {"Ano"        1963
+           "Designação" "Conservas (incluindo o peixe seco)"
+           "Valor"      104}
+          {"Ano"        1964
+           "Designação" "Conservas (incluindo o peixe seco)"
+           "Valor"      181}
+          {"Ano"        1965
+           "Designação" "Conservas (incluindo o peixe seco)"
+           "Valor"      178}
+          {"Ano"        1966
+           "Designação" "Conservas (incluindo o peixe seco)"
+           "Valor"      226}
+
+          {"Ano"        1961
+           "Designação" "Farinha"
+           "Valor"      144}
+          {"Ano"        1962
+           "Designação" "Farinha"
+           "Valor"      93}
+          {"Ano"        1963
+           "Designação" "Farinha"
+           "Valor"      96}
+          {"Ano"        1964
+           "Designação" "Farinha"
+           "Valor"      154}
+          {"Ano"        1965
+           "Designação" "Farinha"
+           "Valor"      166}
+          {"Ano"        1966
+           "Designação" "Farinha"
+           "Valor"      198}
+
+          {"Ano"        1960
+           "Designação" "Óleo"
+           "Valor"      23}
+          {"Ano"        1961
+           "Designação" "Óleo"
+           "Valor"      10}
+          {"Ano"        1962
+           "Designação" "Óleo"
+           "Valor"      10}
+          {"Ano"        1963
+           "Designação" "Óleo"
+           "Valor"      8}
+          {"Ano"        1964
+           "Designação" "Óleo"
+           "Valor"      21}
+          {"Ano"        1965
+           "Designação" "Óleo"
+           "Valor"      20}
+          {"Ano"        1966
+           "Designação" "Óleo"
+           "Valor"      17}
+
+          ]}

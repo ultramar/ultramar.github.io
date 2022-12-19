@@ -1,0 +1,34 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      249
+          :ordinal   2}
+ :notes  ["É a seguinte a evolução das receitas e despesas ordinárias arrecadadas e pagas nos últimos anos"]
+ :title  "DESPESAS ORDINÁRIAS (milhões de escudos)"
+ :data   [{"Ano"                           1962
+           "Encargos com a dívida pública" 83
+           "Encargos Gerais"               458
+           "Outros Capítulos"              1558
+           }
+          {"Ano"                           1963
+           "Encargos com a dívida pública" 112
+           "Encargos Gerais"               801
+           "Outros Capítulos"              2553
+           }
+          {"Ano"                           1964
+           "Encargos com a dívida pública" 129
+           "Encargos Gerais"               595
+           "Outros Capítulos"              2676
+           }
+          {"Ano"                           1965
+           "Encargos com a dívida pública" 209
+           "Encargos Gerais"               662
+           "Outros Capítulos"              3157
+           }
+          {"Ano"                           1966
+           "Encargos com a dívida pública" 231
+           "Encargos Gerais"               796
+           "Outros Capítulos"              3160
+           }
+          ]}

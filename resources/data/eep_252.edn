@@ -1,0 +1,34 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      252}
+ :notes  []
+ :title  "SALDOS CONTABILIZADOS (milhões de escudos)"
+ :data   [{"Ano"                        1962
+           "Excesso sobre as previsões" 153
+           "Despesa a menos"            190
+           "Soma"                       343
+           }
+          {"Ano"                        1963
+           "Excesso sobre as previsões" 37
+           "Despesa a menos"            182
+           "Soma"                       219
+           }
+          {"Ano"                        1964
+           "Excesso sobre as previsões" 132
+           "Despesa a menos"            236
+           "Soma"                       368
+           }
+          {"Ano"                        1965
+           "Excesso sobre as previsões" 31
+           "Despesa a menos"            239
+           "Soma"                       270
+           }
+          {"Ano"                        1966
+           "Excesso sobre as previsões" 59
+           "Despesa a menos"            240
+           "Soma"                       299
+           }
+
+          ]}

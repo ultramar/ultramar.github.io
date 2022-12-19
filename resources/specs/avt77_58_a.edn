@@ -1,0 +1,31 @@
+{:$schema   "https://vega.github.io/schema/vega-lite/v5.json",
+ :width     "container"
+ :height    300
+ :title     {:text   "Despesas com as Forças Armadas"
+             :anchor "middle"
+             :offset 20}
+ :data      {:url nil}
+ :config    {:legend {:labelLimit 1000}
+             :axis   {:labelAngle 0}}
+ :transform [{:calculate "datum['Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar'] - datum['Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra']"
+              :as        "Despesa imputável à situação de guerra"}
+             {:fold ["Despesas Públicas de Portugal (Europa)"
+                     "Despesas Públicas de Guiné, Angola e Moçambique"
+                     "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"
+                     "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"
+                     "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"
+                     "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"
+                     "Despesa imputável à situação de guerra"]
+              :as   ["Tipo" "Valor"]}
+             {:filter "datum.Tipo === 'Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar' || datum.Tipo === 'Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra' || datum.Tipo === 'Despesa imputável à situação de guerra'"}]
+ :encoding  {:y     {:field "Valor",
+                     :type  "quantitative"
+                     :title "Valor (milhares de contos)"},
+             :x     {:field "Ano",
+                     :type  "ordinal"}
+             :color {:field  "Tipo"
+                     :legend {:orient    :bottom
+                              :direction :vertical}}},
+ :mark      {:type    "line"
+             :point   true
+             :tooltip true}}

@@ -1,0 +1,50 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      240}
+ :notes  ["Diamang?"
+          "a comparticipação da Província nos lucros da empresa evoluiu da seguinte forma"]
+ :data   [
+          {"Ano"                                            1955
+           "Comparticipação de lucros (Milhares de contos)" 79
+           "Dividendo de acções (Milhares de contos)"       13
+           "Total (Milhares de contos)"                     92
+           "Índice"                                         76}
+          {"Ano"                                            1960
+           "Comparticipação de lucros (Milhares de contos)" 137
+           "Dividendo de acções (Milhares de contos)"       16
+           "Total (Milhares de contos)"                     153
+           "Índice"                                         125}
+          {"Ano"                                            1961
+           "Comparticipação de lucros (Milhares de contos)" 143
+           "Dividendo de acções (Milhares de contos)"       17
+           "Total (Milhares de contos)"                     160
+           "Índice"                                         131}
+          {"Ano"                                            1962
+           "Comparticipação de lucros (Milhares de contos)" 109
+           "Dividendo de acções (Milhares de contos)"       12
+           "Total (Milhares de contos)"                     121
+           "Índice"                                         100}
+          {"Ano"                                            1963
+           "Comparticipação de lucros (Milhares de contos)" 135
+           "Dividendo de acções (Milhares de contos)"       16
+           "Total (Milhares de contos)"                     151
+           "Índice"                                         123}
+          {"Ano"                                            1964
+           "Comparticipação de lucros (Milhares de contos)" 192
+           "Dividendo de acções (Milhares de contos)"       22
+           "Total (Milhares de contos)"                     214
+           "Índice"                                         176}
+          {"Ano"                                            1965
+           "Comparticipação de lucros (Milhares de contos)" 229
+           "Dividendo de acções (Milhares de contos)"       26
+           "Total (Milhares de contos)"                     255
+           "Índice"                                         210}
+          {"Ano"                                            1966
+           "Comparticipação de lucros (Milhares de contos)" 233
+           "Dividendo de acções (Milhares de contos)"       27
+           "Total (Milhares de contos)"                     260
+           "Índice"                                         215}
+
+          ]}

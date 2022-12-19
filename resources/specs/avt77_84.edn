@@ -1,0 +1,21 @@
+{:$schema  "https://vega.github.io/schema/vega-lite/v5.json",
+ :title    {:text   "Desertores"
+            :anchor "middle"
+            :offset 20}
+ :height   200
+ :width    "container"
+ :data     {:url nil}
+ :config   {:legend {:labelLimit 1000}
+            :axis   {:labelAngle 0}}
+ :encoding {:x     {:field "Ano"}
+            :y     {:field "Desertores",
+                    :type  :quantitative
+                    :title nil},
+            :color {:field  "Teatro"
+                    :legend {:orient :bottom}
+                    :scale  {:range ["#d6616b"
+                                     "#e7ba94"
+                                     "#843c39"]}}},
+ :mark     {:type    "line"
+            :point   true
+            :tooltip true}}

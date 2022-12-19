@@ -1,0 +1,63 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      61},
+ :title  "EVOLUÇÃO DA COMPARTICIPAÇÃO DAS DESPESAS COM AS FORÇAS ARMADAS EM TODO O PAÍS (PORTUGAL EUROPEU E TODO O ULTRAMAR)"
+ :notes  ["II QUADRO"
+          "Em percentagem das Despesas Públicas de"],
+ :data   [{"Anos"                                          1961,
+           "Portugal (Europa)"                             35,
+           "Guiné, Angola e Moçambique"                    7,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 25}
+          {"Anos"                                          1962,
+           "Portugal (Europa)"                             37,
+           "Guiné, Angola e Moçambique"                    10,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 27}
+          {"Anos"                                          1963,
+           "Portugal (Europa)"                             37,
+           "Guiné, Angola e Moçambique"                    9,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 26}
+          {"Anos"                                          1964,
+           "Portugal (Europa)"                             36,
+           "Guiné, Angola e Moçambique"                    10,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 27}
+          {"Anos"                                          1965,
+           "Portugal (Europa)"                             38,
+           "Guiné, Angola e Moçambique"                    10,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 28}
+          {"Anos"                                          1966,
+           "Portugal (Europa)"                             39,
+           "Guiné, Angola e Moçambique"                    11,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 29}
+          {"Anos"                                          1967,
+           "Portugal (Europa)"                             41,
+           "Guiné, Angola e Moçambique"                    12,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 30}
+          {"Anos"                                          1968,
+           "Portugal (Europa)"                             45,
+           "Guiné, Angola e Moçambique"                    14,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 34}
+          {"Anos"                                          1969,
+           "Portugal (Europa)"                             46,
+           "Guiné, Angola e Moçambique"                    13,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 32}
+          {"Anos"                                          1970,
+           "Portugal (Europa)"                             37,
+           "Guiné, Angola e Moçambique"                    12,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 28}
+          {"Anos"                                          1971,
+           "Portugal (Europa)"                             32,
+           "Guiné, Angola e Moçambique"                    12,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 24}
+          {"Anos"                                          1972,
+           "Portugal (Europa)"                             30,
+           "Guiné, Angola e Moçambique"                    11,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 23}
+          {"Anos"                                          1973,
+           "Portugal (Europa)"                             29,
+           "Guiné, Angola e Moçambique"                    13,
+           "Portugal (Europa), Guiné, Angola e Moçambique" 23}]}

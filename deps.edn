@@ -1,0 +1,29 @@
+{:paths   ["src" "resources"]
+
+ :deps    {org.clojure/clojure               {:mvn/version "1.11.1"}
+           stasis/stasis                     {:mvn/version "2.5.1"}
+           com.vladsch.flexmark/flexmark-all {:mvn/version "0.64.0"}
+           babashka/fs                       {:mvn/version "0.2.12"}
+           hiccup/hiccup                     {:mvn/version "1.0.5"}
+           hickory/hickory                   {:mvn/version "0.7.1"}
+           tick/tick                         {:mvn/version "0.5.0"}
+           ring/ring                         {:mvn/version "1.9.6"}
+           exoscale/interceptor              {:mvn/version "0.1.15"}
+           optimus/optimus                   {:mvn/version "2022-02-13"}
+           clj-rss/clj-rss                   {:mvn/version "0.4.0"}
+           scicloj/tablecloth                {:mvn/version "6.103"}
+           io.github.nextjournal/clerk       {:mvn/version "0.11.603"}
+           }
+
+ :aliases {:generate {:ns-default ultramar.core
+                      :exec-fn    generate}
+
+           :build    {:deps       {io.github.seancorfield/build-clj {:git/tag   "v0.6.3" :git/sha "9b8e09b"
+                                                                     ;; since we're building an app uberjar, we do not
+                                                                     ;; need deps-deploy for clojars.org deployment:
+                                                                     :deps/root "slim"}}
+                      :ns-default build}
+
+           :test     {:extra-paths ["test"]
+                      :extra-deps  {org.clojure/test.check               {:mvn/version "1.1.1"}
+                                    io.github.cognitect-labs/test-runner {:git/tag "v0.5.0" :git/sha "48c3c67"}}}}}

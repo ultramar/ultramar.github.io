@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="cristo"
+   width="600"
+   height="600">
+  <path
+     style="fill:#d7110e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 180,103.34375 L 256.84375,148.03125 L 256.84375,256.59375 L 148.21875,256.59375 L 103.53125,179.75 L 103.53125,419.84375 L 148.21875,343 L 256.84375,343 L 256.84375,451.96875 L 180,496.65625 L 420.09375,496.65625 L 343.25,451.96875 L 343.25,343 L 451.78125,343 L 496.46875,419.84375 L 496.46875,179.75 L 451.78125,256.59375 L 343.25,256.59375 L 343.25,148.03125 L 420.09375,103.34375 L 180,103.34375 z M 284.03125,148.25 L 316.0625,148.25 L 316.0625,283.78125 L 451.5625,283.78125 L 451.5625,315.8125 L 316.0625,315.8125 L 316.0625,451.75 L 284.03125,451.75 L 284.03125,315.8125 L 148.4375,315.8125 L 148.4375,283.78125 L 284.03125,283.78125 L 284.03125,148.25 z "
+     id="path1893"/>
+</svg>
