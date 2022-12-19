@@ -1,0 +1,134 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      74},
+ :title  "MORTOS EM COMBATE, POR ANO, NOS 3 TEATROS DE OPERAÇÕES"
+ :notes  ["VI QUADRO"
+          "Fonte: Documentos Oficiais"
+          "nota ref. aos anos 1970 e 1971: Só foi possível obter o número absoluto do periodo e o valor médio anual correspondente."
+          "d) No Vietname, para as F. Armadas US, de 1964 a 1972, a média anual foi de 14,7 por mil e o valor máximo atingido em 1968, foi de 23,5 por mil. (De elementos colhidos em Statistical Abstract of US. 1975. US Department of Commerce)."
+          ],
+ :data   [{"Ano"                      "1961",
+           "Teatro"                   "Angola",
+           "Mortos"                   134,
+           "Mortos por mil efectivos" 3.39}                 ;; b) Valores obtidos a partir de efectivos estimados
+          {"Ano"                      "1962",
+           "Teatro"                   "Angola",
+           "Mortos"                   113,
+           "Mortos por mil efectivos" 2.62}                 ;; b) Valores obtidos a partir de efectivos estimados
+          {"Ano"                      "1963",
+           "Teatro"                   "Guiné",
+           "Mortos"                   36,
+           "Mortos por mil efectivos" 2.18}                 ;; b) Valores obtidos a partir de efectivos estimados
+          {"Ano"                      "1963",
+           "Teatro"                   "Angola",
+           "Mortos"                   83,
+           "Mortos por mil efectivos" 1.74}                 ;; b) Valores obtidos a partir de efectivos estimados
+          {"Ano"                      "1964",
+           "Teatro"                   "Guiné",
+           "Mortos"                   77,
+           "Mortos por mil efectivos" 6.16}
+          {"Ano"                      "1964",
+           "Teatro"                   "Angola",
+           "Mortos"                   101,
+           "Mortos por mil efectivos" 2.21}
+          {"Ano"                      "1964",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   2,                    ;; c) Valores correspondentes apenas a Novembro e Dezembro 64.
+           "Mortos por mil efectivos" 0.1}                  ;; c) Valores correspondentes apenas a Novembro e Dezembro 64.
+          {"Ano"                      "1965",
+           "Teatro"                   "Guiné",
+           "Mortos"                   81,
+           "Mortos por mil efectivos" 4.16}
+          {"Ano"                      "1965",
+           "Teatro"                   "Angola",
+           "Mortos"                   27,
+           "Mortos por mil efectivos" 1.41}
+          {"Ano"                      "1965",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   73,
+           "Mortos por mil efectivos" 2.79}
+          {"Ano"                      "1966",
+           "Teatro"                   "Guiné",
+           "Mortos"                   118,
+           "Mortos por mil efectivos" 5.08}
+          {"Ano"                      "1966",
+           "Teatro"                   "Angola",
+           "Mortos"                   90,
+           "Mortos por mil efectivos" 1.49}
+          {"Ano"                      "1966",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   108,
+           "Mortos por mil efectivos" 3.18}
+          {"Ano"                      "1967",
+           "Teatro"                   "Guiné",
+           "Mortos"                   136,
+           "Mortos por mil efectivos" 5.61}
+          {"Ano"                      "1967",
+           "Teatro"                   "Angola",
+           "Mortos"                   88,
+           "Mortos por mil efectivos" 1.42}
+          {"Ano"                      "1967",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   93,
+           "Mortos por mil efectivos" 2.34}
+          {"Ano"                      "1968",
+           "Teatro"                   "Guiné",
+           "Mortos"                   109,
+           "Mortos por mil efectivos" 4.25}
+          {"Ano"                      "1968",
+           "Teatro"                   "Angola",
+           "Mortos"                   115,
+           "Mortos por mil efectivos" 1.74}
+          {"Ano"                      "1968",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   91,
+           "Mortos por mil efectivos" 2.18}
+          {"Ano"                      "1969",
+           "Teatro"                   "Guiné",
+           "Mortos"                   112,
+           "Mortos por mil efectivos" 3.94}
+          {"Ano"                      "1969",
+           "Teatro"                   "Angola",
+           "Mortos"                   76,
+           "Mortos por mil efectivos" 1.18}
+          {"Ano"                      "1969",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   126,
+           "Mortos por mil efectivos" 2.29}
+          {"Ano"                      "1970/1971",
+           "Teatro"                   "Guiné",
+           "Mortos"                   263,
+           "Mortos por mil efectivos" 3.33}
+          {"Ano"                      "1970/1971",
+           "Teatro"                   "Angola",
+           "Mortos"                   123,
+           "Mortos por mil efectivos" 1.08}
+          {"Ano"                      "1970/1971",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   257,
+           "Mortos por mil efectivos" 2.08}
+          {"Ano"                      "1972",
+           "Teatro"                   "Angola",
+           "Mortos"                   62,
+           "Mortos por mil efectivos" 0.95}
+          {"Ano"                      "1972",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   131,
+           "Mortos por mil efectivos" 2.72}
+          {"Ano"                      "1973",
+           "Teatro"                   "Guiné",
+           "Mortos"                   106,
+           "Mortos por mil efectivos" 3.64}
+          {"Ano"                      "1973",
+           "Teatro"                   "Angola",
+           "Mortos"                   41,
+           "Mortos por mil efectivos" 0.64}
+          {"Ano"                      "1973",
+           "Teatro"                   "Moçambique",
+           "Mortos"                   123,
+           "Mortos por mil efectivos" 2.27}]}

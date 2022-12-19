@@ -1,0 +1,47 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      64
+          :ordinal   1},
+ :title  "EFECTIVOS DAS FORÇAS ARMADAS NOS 3 TEATROS DE OPERAÇÕES"
+ :notes  ["III QUADRO"
+          "Fonte: Documentos Oficiais"
+          "nota referente às entradas Angola:1961,Angola:1962,Angola:1963,Guiné:1963 - Números estimados a partir do total nos 3 Teatros de Operações de 66898 em 1961, 74501 em 1962 e 80998 em 1963."],
+ :data   [{"Ano" 1961, "Teatro" "Angola", "Efectivos" 39469}
+          {"Ano" 1962, "Teatro" "Angola", "Efectivos" 43956}
+          {"Ano" 1963, "Teatro" "Angola", "Efectivos" 47789}
+          {"Ano" 1964, "Teatro" "Angola", "Efectivos" 45791}
+          {"Ano" 1965, "Teatro" "Angola", "Efectivos" 61676}
+          {"Ano" 1966, "Teatro" "Angola", "Efectivos" 60457}
+          {"Ano" 1967, "Teatro" "Angola", "Efectivos" 62013}
+          {"Ano" 1968, "Teatro" "Angola", "Efectivos" 66138}
+          {"Ano" 1969, "Teatro" "Angola", "Efectivos" 64596}
+          {"Ano" 1970, "Teatro" "Angola", "Efectivos" 62773}
+          {"Ano" 1971, "Teatro" "Angola", "Efectivos" 58714}
+          {"Ano" 1972, "Teatro" "Angola", "Efectivos" 64739}
+          {"Ano" 1973, "Teatro" "Angola", "Efectivos" 64054}
+          {"Ano" 1963, "Teatro" "Guiné", "Efectivos" 12960}
+          {"Ano" 1964, "Teatro" "Guiné", "Efectivos" 12491}
+          {"Ano" 1965, "Teatro" "Guiné", "Efectivos" 19462}
+          {"Ano" 1966, "Teatro" "Guiné", "Efectivos" 23239}
+          {"Ano" 1967, "Teatro" "Guiné", "Efectivos" 24250}
+          {"Ano" 1968, "Teatro" "Guiné", "Efectivos" 25631}
+          {"Ano" 1969, "Teatro" "Guiné", "Efectivos" 28446}
+          {"Ano" 1970, "Teatro" "Guiné", "Efectivos" 25504}
+          {"Ano" 1971, "Teatro" "Guiné", "Efectivos" 26089}
+          {"Ano" 1972, "Teatro" "Guiné", "Efectivos" 27342}
+          {"Ano" 1973, "Teatro" "Guiné", "Efectivos" 29056}
+          {"Ano" 1964, "Teatro" "Moçambique", "Efectivos" 19049}
+          {"Ano" 1965, "Teatro" "Moçambique", "Efectivos" 26139}
+          {"Ano" 1966, "Teatro" "Moçambique", "Efectivos" 33913}
+          {"Ano" 1967, "Teatro" "Moçambique", "Efectivos" 39728}
+          {"Ano" 1968, "Teatro" "Moçambique", "Efectivos" 41824}
+          {"Ano" 1969, "Teatro" "Moçambique", "Efectivos" 43604}
+          {"Ano" 1970, "Teatro" "Moçambique", "Efectivos" 44681}
+          {"Ano" 1971, "Teatro" "Moçambique", "Efectivos" 44429}
+          {"Ano" 1972, "Teatro" "Moçambique", "Efectivos" 48101}
+          {"Ano" 1973, "Teatro" "Moçambique", "Efectivos" 54127}]}

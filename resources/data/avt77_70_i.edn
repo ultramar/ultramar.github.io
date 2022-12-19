@@ -1,0 +1,32 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      70
+          :ordinal   1},
+ :title  "BAIXAS DAS FORÇAS ARMADAS - MÉDIAS"
+ :notes  ["V QUADRO"
+          "Fonte: Documentos Oficiais"
+          "Durante a guerra por teatro de operações"
+          "As baixas foram registadas na Guiné, a partir de 1 de Maio 63; em Angola, a partir de 1 Maio 61; em Moçambique, a partir de 1 Novembro 64 e nos 3 Teatros de Operações, até 1 de Maio 74."],
+ :data   [{"Teatro"                    "Guiné",
+           "Mortos em combate"         1084,
+           "Mortos por outros motivos" 791,
+           "Feridos em combate"        6161,
+           "Feridos por acidente"      2167,
+           "Doentes"                   16462}
+          {"Teatro"                    "Angola",
+           "Mortos em combate"         1142,
+           "Mortos por outros motivos" 1529,
+           "Feridos em combate"        4472,
+           "Feridos por acidente"      6595,
+           "Doentes"                   37398}
+          {"Teatro"                    "Moçambique",
+           "Mortos em combate"         1039,
+           "Mortos por outros motivos" 755,
+           "Feridos em combate"        2245,
+           "Feridos por acidente"      6279,
+           "Doentes"                   30426}]}

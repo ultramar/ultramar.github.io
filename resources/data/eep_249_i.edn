@@ -1,0 +1,33 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      249
+          :ordinal   1}
+ :notes  ["É a seguinte a evolução das receitas e despesas ordinárias arrecadadas e pagas nos últimos anos"]
+ :title  "RECEITAS ORDINÁRIAS (milhões de escudos)"
+ :data   [{"Ano"                           1962
+           "Capítulo do Orçamento I a VII" 1779
+           "Serviços autónomos"            494
+           "Outros"                        187
+           }
+          {"Ano"                           1963
+           "Capítulo do Orçamento I a VII" 1845
+           "Serviços autónomos"            1316
+           "Outros"                        525
+           }
+          {"Ano"                           1964
+           "Capítulo do Orçamento I a VII" 2124
+           "Serviços autónomos"            1322
+           "Outros"                        334
+           }
+          {"Ano"                           1965
+           "Capítulo do Orçamento I a VII" 2280
+           "Serviços autónomos"            1481
+           "Outros"                        536
+           }
+          {"Ano"                           1966
+           "Capítulo do Orçamento I a VII" 2531
+           "Serviços autónomos"            1358
+           "Outros"                        600
+           }]}

@@ -1,0 +1,42 @@
+{:$schema   "https://vega.github.io/schema/vega-lite/v5.json",
+ :title     {:text   "Mortos e Feridos"
+             :anchor "middle"
+             :offset 20}
+ :width     200
+ :data      {:url nil}
+ :config    {:legend {:labelLimit 1000}
+             :axisX  {:labelAngle 0
+                      :title      false}}
+ :transform [{:fold ["Mortos em combate"
+                     "Mortos por outros motivos"
+                     "Feridos em combate"
+                     "Feridos por acidente"]
+              :as   ["Tipo" "Baixas"]}
+             {:lookup "Tipo"
+              :from   {:data   {:values [{"Tipo"  "Mortos em combate"
+                                          "Grupo" ["Mortos"]}
+                                         {"Tipo"  "Mortos por outros motivos"
+                                          "Grupo" ["Mortos"]}
+                                         {"Tipo"  "Feridos em combate"
+                                          "Grupo" ["Feridos"]}
+                                         {"Tipo"  "Feridos por acidente"
+                                          "Grupo" ["Feridos"]}]}
+                       :key    "Tipo"
+                       :fields ["Grupo"]}}
+             {:flatten ["Grupo"]}]
+ :encoding  {:x      {:field "Grupo"
+                      :type  :nominal
+                      :scale {:paddingInner 0.3
+                              :paddingOuter 0.5}}
+             :y      {:field "Baixas",
+                      :type  :quantitative
+                      :stack true}
+             :column {:field "Teatro" :header {:title nil}}
+             :color  {:field  "Tipo"
+                      :scale  {:range ["#843c39"
+                                       "#e7ba94"
+                                       "#ad494a"
+                                       "#e7969c"]}
+                      :legend {:orient :bottom}}},
+ :mark      {:type    "bar"
+             :tooltip true}}

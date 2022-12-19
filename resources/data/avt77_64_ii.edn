@@ -1,0 +1,15 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      64
+          :ordinal   2},
+ :title  "EFECTIVOS DAS FORÇAS ARMADAS NOS 3 TEATROS DE OPERAÇÕES"
+ :notes  ["III QUADRO"
+          "nota ref. à coluna 'Homens mobilizados': Os números são aproximados dado que as rendições nem sempre se fizeram nos prazos certos."],
+ :data   [{"Teatro" "Angola", "Homens mobilizados" 403110}
+          {"Teatro" "Guiné", "Homens mobilizados" 141763}
+          {"Teatro" "Moçambique", "Homens mobilizados" 251925}]}

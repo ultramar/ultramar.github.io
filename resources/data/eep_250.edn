@@ -1,0 +1,49 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      250}
+ :notes  []
+ :title  "RECEITAS EXTRAORDINÁRIAS (milhões de escudos)"
+ :data   [{"Ano"                                    1962
+           "Empréstimo da Metrópole"                298
+           "Empréstimos locais"                     286
+           "Saldos das contas de Exercícios Findos" 150
+           "Receitas do Fundo de Fomento"           150
+           "Imposto de Sobrevalorizações"           3
+           "Outros"                                 24
+           }
+          {"Ano"                                    1963
+           "Empréstimo da Metrópole"                186
+           "Empréstimos locais"                     673
+           "Saldos das contas de Exercícios Findos" 252
+           "Receitas do Fundo de Fomento"           95
+           "Imposto de Sobrevalorizações"           0
+           "Outros"                                 0
+           }
+          {"Ano"                                    1964
+           "Empréstimo da Metrópole"                173
+           "Empréstimos locais"                     220
+           "Saldos das contas de Exercícios Findos" 255
+           "Receitas do Fundo de Fomento"           128
+           "Imposto de Sobrevalorizações"           59
+           "Outros"                                 28
+           }
+          {"Ano"                                    1965
+           "Empréstimo da Metrópole"                316
+           "Empréstimos locais"                     132
+           "Saldos das contas de Exercícios Findos" 291
+           "Receitas do Fundo de Fomento"           142
+           "Imposto de Sobrevalorizações"           80
+           "Outros"                                 0
+           }
+          {"Ano"                                    1966
+           "Empréstimo da Metrópole"                138
+           "Empréstimos locais"                     176
+           "Saldos das contas de Exercícios Findos" 279
+           "Receitas do Fundo de Fomento"           165
+           "Imposto de Sobrevalorizações"           133
+           "Outros"                                 270
+           }
+
+          ]}

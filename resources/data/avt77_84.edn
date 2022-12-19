@@ -1,0 +1,122 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      84},
+ :title  "DESERÇÕES NOS TEATROS DE OPERAÇÕES (DE 1961 a 1969)"
+ :notes  ["VIII QUADRO"
+          "b) No Vietname, segundo Statistical Abstract of US. 1975. US Department of Commerce, Quadro 531, p. 327, a per milagem anual das deserções foi, entre 1967 e 1974, de 23,4 com um máximo de 33,9 em 1971. São valores superiores respectivamente 180 e 81 vezes aos verificados na nossa Guerra do Ultramar."
+          ],
+ :data   [{"Ano"        1963,
+           "Teatro"     "Guiné",
+           "Efectivos"  12960,                              ;; a) Números estimados.
+           "Desertores" 4,
+           "per mil"    0.31}
+          {"Ano"        1964,
+           "Teatro"     "Guiné",
+           "Efectivos"  12491,
+           "Desertores" 3,
+           "per mil"    0.24}
+          {"Ano"        1965,
+           "Teatro"     "Guiné",
+           "Efectivos"  19462,
+           "Desertores" 5,
+           "per mil"    0.26}
+          {"Ano"        1966,
+           "Teatro"     "Guiné",
+           "Efectivos"  23239,
+           "Desertores" 3,
+           "per mil"    0.13}
+          {"Ano"        1967,
+           "Teatro"     "Guiné",
+           "Efectivos"  24250,
+           "Desertores" 0,
+           "per mil"    0.0}
+          {"Ano"        1968,
+           "Teatro"     "Guiné",
+           "Efectivos"  25631,
+           "Desertores" 5,
+           "per mil"    0.2}
+          {"Ano"        1969,
+           "Teatro"     "Guiné",
+           "Efectivos"  28446,
+           "Desertores" 12,
+           "per mil"    0.42}
+          {"Ano"        1961,
+           "Teatro"     "Angola",
+           "Efectivos"  39469,                              ;; a) Números estimados.
+           "Desertores" 2,
+           "per mil"    0.05}
+          {"Ano"        1962,
+           "Teatro"     "Angola",
+           "Efectivos"  43956,                              ;; a) Números estimados.
+           "Desertores" 0,
+           "per mil"    0.0}
+          {"Ano"        1963,
+           "Teatro"     "Angola",
+           "Efectivos"  47789,                              ;; a) Números estimados.
+           "Desertores" 4,
+           "per mil"    0.08}
+          {"Ano"        1964,
+           "Teatro"     "Angola",
+           "Efectivos"  45791,
+           "Desertores" 14,
+           "per mil"    0.31}
+          {"Ano"        1965,
+           "Teatro"     "Angola",
+           "Efectivos"  61676,
+           "Desertores" 20,
+           "per mil"    0.32}
+          {"Ano"        1966,
+           "Teatro"     "Angola",
+           "Efectivos"  60457,
+           "Desertores" 6,
+           "per mil"    0.1}
+          {"Ano"        1967,
+           "Teatro"     "Angola",
+           "Efectivos"  62013,
+           "Desertores" 3,
+           "per mil"    0.05}
+          {"Ano"        1968,
+           "Teatro"     "Angola",
+           "Efectivos"  66138,
+           "Desertores" 1,
+           "per mil"    0.02}
+          {"Ano"        1969,
+           "Teatro"     "Angola",
+           "Efectivos"  64596,
+           "Desertores" 8,
+           "per mil"    0.12}
+          {"Ano"        1964,
+           "Teatro"     "Moçambique",
+           "Efectivos"  19049,
+           "Desertores" 4,
+           "per mil"    0.21}
+          {"Ano"        1965,
+           "Teatro"     "Moçambique",
+           "Efectivos"  26139,
+           "Desertores" 0,
+           "per mil"    0.0}
+          {"Ano"        1966,
+           "Teatro"     "Moçambique",
+           "Efectivos"  33913,
+           "Desertores" 3,
+           "per mil"    0.09}
+          {"Ano"        1967,
+           "Teatro"     "Moçambique",
+           "Efectivos"  39728,
+           "Desertores" 0,
+           "per mil"    0.0}
+          {"Ano"        1968,
+           "Teatro"     "Moçambique",
+           "Efectivos"  41824,
+           "Desertores" 3,
+           "per mil"    0.07}
+          {"Ano"        1969,
+           "Teatro"     "Moçambique",
+           "Efectivos"  43604,
+           "Desertores" 3,
+           "per mil"    nil}]}

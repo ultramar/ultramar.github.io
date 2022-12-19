@@ -1,0 +1,121 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      58},
+ :title  "DESPESAS COM AS FORÇAS ARMADAS (a preços correntes)"
+ :notes  ["I QUADRO"
+          "Fonte: Serviços Oficiais"
+          "Unidade: Milhares de contos"
+          "nota ref. às colunas 'Despesas Públicas': Números obtidos em Serviços Oficiais. As comparticipações da Guiné, de Angola e de Moçambique foram contadas até aos anos das respectivas 'independências' 26 de Agosto de 74, 25 de Junho de 75 e 1 de Novembro de 75"
+          "nota ref. à coluna 'se não tivesse havido guerra': Cálculo com base nas Despesas de 1960 (3357 milhares de contos) empoladas de 6% por ano."
+          "nota ref. à coluna 'Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar': Números obtidos em Serviços Oficiais que são a som dos seguintes Orçamentos de Despesa: Orçamento Ordinário, Orçamento Suplementar de Defesa e Orçamento das Forças Militares Extraordinárias no Ultramar e Orçamento Privativo das Forças Armadas Ultramarinas, Fundo de Defesa Militar do Ultramar, Plano de Reequipamento Extraordinário do Exército e da Força Aérea."
+          ],
+ :data   [{"Ano"                                                                                                                     1961,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  13942,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         7774,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      3558,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   5385,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 517,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          4868}
+          {"Ano"                                                                                                                     1962,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  15183,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         8522,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      3771,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   6487,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 848,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          5639}
+          {"Ano"                                                                                                                     1963,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  15852,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         10193,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      3997,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   6757,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 941,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          5816}
+          {"Ano"                                                                                                                     1964,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  17499,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         9978,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      4237,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   7378,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 1009,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          6369}
+          {"Ano"                                                                                                                     1965,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  18157,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         11089,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      4491,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   8074,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 1145,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          6929}
+          {"Ano"                                                                                                                     1966,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  19736,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         11925,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      4760,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   9030,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 1363,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          7667}
+          {"Ano"                                                                                                                     1967,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  23461,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         13132,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      5046,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   11173,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 1632,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          9541}
+          {"Ano"                                                                                                                     1968,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  25768,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         13494,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      5348,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   13391,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 1874,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          11517}
+          {"Ano"                                                                                                                     1969,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  25327,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         17473,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      5669,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   13857,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 2237,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          11620}
+          {"Ano"                                                                                                                     1970,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  32751,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         19693,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      6009,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   14452,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 2427,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          12025}
+          {"Ano"                                                                                                                     1971,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  36930,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         23198,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      6369,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   14338,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 2697,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          11641}
+          {"Ano"                                                                                                                     1972,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  42103,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         26237,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      6751,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   15482,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 2961,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          12521}
+          {"Ano"                                                                                                                     1973,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  43621,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         25710,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      7156,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   16104,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 3431,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          12673}
+          {"Ano"                                                                                                                     1974,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  53058,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         34792,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      7585,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   20238,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 3711,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          16527}
+          {"Ano"                                                                                                                     1975,
+           "Despesas Públicas de Portugal (Europa)"                                                                                  75379,
+           "Despesas Públicas de Guiné, Angola e Moçambique"                                                                         39830,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar se não tivesse havido Guerra"                      8040,
+           "Despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"                                                   17984,
+           "Comparticipação da Guiné, Angola e Moçambique nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar" 1400,
+           "Comparticipação de Portugal (Europa) nas despesas com as Forças Armadas de Portugal (Europa) e todo o Ultramar"          16584}]}

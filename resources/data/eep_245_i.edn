@@ -1,0 +1,29 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      245
+          :ordinal   1}
+ :notes  ["Indústrias transformadoras"
+          "elementos elaborados por um grupo de trabalho afecto à Secretaria Províncial de Economia, que se encontra publicado pelo Governo-Geral de Angola sob o título «Aspectos da Administração da Província em 1965». São os seguintes os números-índices correspondentes ao valor de produção das indústrias alimentares, das bebidas, dos tabacos e suas obras, dos produtos químicos, dos derivados de petróleo, dos produtos minerais não.metálicos, dos artigos metálicos, do material eléctrico, de outras indústrias."]
+ :data   [{"Ano"                          1960
+           "Índice"                       69
+           "Valores (Milhares de contos)" 1371}
+          {"Ano"                          1961
+           "Índice"                       78
+           "Valores (Milhares de contos)" 1555}
+          {"Ano"                          1962
+           "Índice"                       100
+           "Valores (Milhares de contos)" 1989}
+          {"Ano"                          1963
+           "Índice"                       114
+           "Valores (Milhares de contos)" 2278}
+          {"Ano"                          1964
+           "Índice"                       135
+           "Valores (Milhares de contos)" 2693}
+          {"Ano"                          1965
+           "Índice"                       147
+           "Valores (Milhares de contos)" 2926}
+          {"Ano"                          1966
+           "Índice"                       172
+           "Valores (Milhares de contos)" 3422}]}

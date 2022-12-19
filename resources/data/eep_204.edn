@@ -1,0 +1,30 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      204}
+ :title  "SAÚDE"
+ :notes  ["São extraídos do excelente relatório da Secretaria Provincial de Saúde, Trabalho, Previdência e Assistência, publicado em fins de 1966 e cobrindo o último quadriénio."]
+ :data   [{:title "Número total de lugares"
+           :data  [{"Ano"          1962
+                    "Previstos"    2115
+                    "Orçamentados" 1924
+                    "Providos"     nil}
+                   {"Ano"          1966
+                    "Previstos"    5545
+                    "Orçamentados" 3019
+                    "Providos"     2512}]}
+          {:title "Dotações orçamentais globais"
+           :data  [{"Ano"                     1962
+                    "Valor absoluto (contos)" 139145}
+                   {"Ano"                     1966
+                    "Valor absoluto (contos)" 203356}]}
+          {:title "Assitência hospitalar"
+           :data  [{"Ano"                                        1962
+                    "Número de camas"                            4229
+                    "Média de dias de hospitalização por doente" 21
+                    "Taxa de letalidade"                         5.68}
+                   {"Ano"                                        1966
+                    "Número de camas"                            4645
+                    "Média de dias de hospitalização por doente" 17
+                    "Taxa de letalidade"                         5.08}]}]}

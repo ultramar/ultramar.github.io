@@ -1,0 +1,103 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      251}
+ :notes  []
+ :title  "DESPESAS EXTRAORDINÁRIAS (milhões de escudos)"
+ :data   [{"Ano"              1962
+           "Designação"       "Formento, Saúde, Assistência, Cultura e Promoção Social"
+           "Plano de Fomento" 603
+           "Fora do Plano"    229
+           "Total"            832
+           }
+          {"Ano"              1962
+           "Designação"       "Defesa e Segurança"
+           "Plano de Fomento" 0
+           "Fora do Plano"    96
+           "Total"            96
+           }
+          {"Ano"              1962
+           "Designação"       "Outros"
+           "Plano de Fomento" 0
+           "Fora do Plano"    0
+           "Total"            0
+           }
+
+          {"Ano"              1963
+           "Designação"       "Formento, Saúde, Assistência, Cultura e Promoção Social"
+           "Plano de Fomento" 873
+           "Fora do Plano"    164
+           "Total"            1037
+           }
+          {"Ano"              1963
+           "Designação"       "Defesa e Segurança"
+           "Plano de Fomento" 0
+           "Fora do Plano"    158
+           "Total"            158
+           }
+          {"Ano"              1963
+           "Designação"       "Outros"
+           "Plano de Fomento" 0
+           "Fora do Plano"    12
+           "Total"            12
+           }
+
+          {"Ano"              1964
+           "Designação"       "Formento, Saúde, Assistência, Cultura e Promoção Social"
+           "Plano de Fomento" 646
+           "Fora do Plano"    126
+           "Total"            772
+           }
+          {"Ano"              1964
+           "Designação"       "Defesa e Segurança"
+           "Plano de Fomento" 0
+           "Fora do Plano"    101
+           "Total"            101
+           }
+          {"Ano"              1964
+           "Designação"       "Outros"
+           "Plano de Fomento" 0
+           "Fora do Plano"    3
+           "Total"            3
+           }
+
+          {"Ano"              1965
+           "Designação"       "Formento, Saúde, Assistência, Cultura e Promoção Social"
+           "Plano de Fomento" 753
+           "Fora do Plano"    51
+           "Total"            804
+           }
+          {"Ano"              1965
+           "Designação"       "Defesa e Segurança"
+           "Plano de Fomento" 0
+           "Fora do Plano"    77
+           "Total"            77
+           }
+          {"Ano"              1965
+           "Designação"       "Outros"
+           "Plano de Fomento" 0
+           "Fora do Plano"    60
+           "Total"            60
+           }
+
+          {"Ano"              1966
+           "Designação"       "Formento, Saúde, Assistência, Cultura e Promoção Social"
+           "Plano de Fomento" 844
+           "Fora do Plano"    110
+           "Total"            954
+           }
+          {"Ano"              1966
+           "Designação"       "Defesa e Segurança"
+           "Plano de Fomento" 0
+           "Fora do Plano"    61
+           "Total"            61
+           }
+          {"Ano"              1966
+           "Designação"       "Outros"
+           "Plano de Fomento" 0
+           "Fora do Plano"    149
+           "Total"            149
+           }
+
+          ]}

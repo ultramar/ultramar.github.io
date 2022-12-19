@@ -1,0 +1,22 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      223}
+ :notes  ["O êxito dos mercados rurais é assinalado pelos seguintes números."]
+ :data   [{"Ano"                                     1964
+           "Número de mercados"                      3412
+           "Quantidades transaccionadas (toneladas)" 67023
+           "Valores de transacção (contos)"          255457}
+          {"Ano"                                     1965
+           "Número de mercados"                      5108
+           "Quantidades transaccionadas (toneladas)" 69774
+           "Valores de transacção (contos)"          269986}
+          {"Ano"                                     1966
+           "Número de mercados"                      6924
+           "Quantidades transaccionadas (toneladas)" 98815
+           "Valores de transacção (contos)"          423607}
+          {"Ano"                                     1967
+           "Número de mercados"                      nil
+           "Quantidades transaccionadas (toneladas)" 111867
+           "Valores de transacção (contos)"          465159}]}

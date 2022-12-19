@@ -1,0 +1,123 @@
+{:source {:title     "Estratégia Estrutural Portuguesa"
+          :author    "Silvino Silvério Marques"
+          :publisher "QP"
+          :year      "1970"
+          :page      229}
+ :notes  ["A descentralização e autarquização realizada na Província [...] números compilados do excelente Relatório publicado, em fins de 1966, pela Secretaria-Geral de Angola."
+          "*Freguesias em funcionamento: Actualmente, estão já em funcionamento mais dezasseis (Luanda) e as restantes (Malange) deverão entrar em funcionamento em Abril ou Maio."
+          "*Comissões Municipais em funcionamento: A Comissão Municipal do Chitato (Luanda), criada por Decreto n.º 63, de 9-11-1921, nunca entrou em funcionamento. Foi elevada a Câmara Municipal por Portaria n.º 13 458 de 17-10-1964 e entrou em pleno funcionamento logo após a realização das eleições."]
+ :data   [{"Data"             "31-12-1960"
+           "Designação"       "Distritos"
+           "Existentes"       13
+           "Em funcionamento" 13}
+          {"Data"             "31-12-1962"
+           "Designação"       "Distritos"
+           "Existentes"       15
+           "Em funcionamento" 15}
+          {"Data"             "5-10-1966"
+           "Designação"       "Distritos"
+           "Existentes"       15
+           "Em funcionamento" 15}
+
+          {"Data"             "31-12-1960"
+           "Designação"       "Intendências"
+           "Existentes"       4
+           "Em funcionamento" 4}
+
+          {"Data"             "31-12-1960"
+           "Designação"       "Concelhos"
+           "Existentes"       64
+           "Em funcionamento" 64}
+          {"Data"             "31-12-1962"
+           "Designação"       "Concelhos"
+           "Existentes"       68
+           "Em funcionamento" 68}
+          {"Data"             "5-10-1966"
+           "Designação"       "Concelhos"
+           "Existentes"       98
+           "Em funcionamento" 98}
+
+          {"Data"             "31-12-1960"
+           "Designação"       "Circunscrições"
+           "Existentes"       21
+           "Em funcionamento" 21}
+          {"Data"             "31-12-1962"
+           "Designação"       "Circunscrições"
+           "Existentes"       23
+           "Em funcionamento" 23}
+          {"Data"             "5-10-1966"
+           "Designação"       "Circunscrições"
+           "Existentes"       23
+           "Em funcionamento" 23}
+
+          {"Data"             "31-12-1960"
+           "Designação"       "Bairros Administrativos"
+           "Existentes"       3
+           "Em funcionamento" 3}
+          {"Data"             "31-12-1962"
+           "Designação"       "Bairros Administrativos"
+           "Existentes"       3
+           "Em funcionamento" 3}
+          {"Data"             "5-10-1966"
+           "Designação"       "Bairros Administrativos"
+           "Existentes"       4
+           "Em funcionamento" 4}
+
+          {"Data"             "5-10-1966"
+           "Designação"       "Freguesias"
+           "Existentes"       39
+           "Em funcionamento" 6}
+
+          {"Data"             "31-12-1960"
+           "Designação"       "Postos Administrativos"
+           "Existentes"       280
+           "Em funcionamento" 276}
+          {"Data"             "31-12-1962"
+           "Designação"       "Postos Administrativos"
+           "Existentes"       307
+           "Em funcionamento" 295}
+          {"Data"             "5-10-1966"
+           "Designação"       "Postos Administrativos"
+           "Existentes"       285
+           "Em funcionamento" 281}
+
+          {"Data"             "31-12-1960"
+           "Designação"       "Câmaras Municipais"
+           "Existentes"       14
+           "Em funcionamento" 14}
+          {"Data"             "31-12-1962"
+           "Designação"       "Câmaras Municipais"
+           "Existentes"       23
+           "Em funcionamento" 23}
+          {"Data"             "5-10-1966"
+           "Designação"       "Câmaras Municipais"
+           "Existentes"       62
+           "Em funcionamento" 62}
+
+          {"Data"             "31-12-1960"
+           "Designação"       "Comissões Municipais"
+           "Existentes"       50
+           "Em funcionamento" 49}
+          {"Data"             "31-12-1962"
+           "Designação"       "Comissões Municipais"
+           "Existentes"       45
+           "Em funcionamento" 44}
+          {"Data"             "5-10-1966"
+           "Designação"       "Comissões Municipais"
+           "Existentes"       36
+           "Em funcionamento" 36}
+
+          {"Data"             "31-12-1960"
+           "Designação"       "Juntas Locais"
+           "Existentes"       20
+           "Em funcionamento" 20}
+          {"Data"             "31-12-1962"
+           "Designação"       "Juntas Locais"
+           "Existentes"       15
+           "Em funcionamento" 15}
+
+          {"Data"             "5-10-1966"
+           "Designação"       "Juntas de Freguesia"
+           "Existentes"       6
+           "Em funcionamento" 6}
+          ]}

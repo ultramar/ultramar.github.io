@@ -1,0 +1,33 @@
+{:$schema   "https://vega.github.io/schema/vega-lite/v5.json",
+ :title     {:text   "Feridos e Doentes"
+             :anchor "middle"
+             :offset 20}
+ :width     200
+ :data      {:url nil}
+ :config    {:legend {:labelLimit 1000}
+             :axisX  {:labelAngle 0}}
+ :transform [{:fold ["Doentes"
+                     "Feridos por acidente"
+                     "Feridos em combate"]
+              :as   ["Tipo" "Baixas"]}
+             {:calculate "indexof(['Doentes', 'Feridos por acidente', 'Feridos em combate'], datum.Tipo)",
+              :as        "order"}]
+ :encoding  {:x     {:field "Teatro"
+                     :type  :nominal
+                     :title nil
+                     :scale {:paddingInner 0.3
+                             :paddingOuter 0.5}}
+             :y     {:field "Baixas",
+                     :type  :quantitative
+                     :stack true}
+             :color {:field "Tipo"
+                     :scale {:range  ["#d6616b"
+                                      "#e7ba94"
+                                      "#843c39"]
+                             :domain ["Doentes"
+                                      "Feridos por acidente"
+                                      "Feridos em combate"]}}
+             :order {:field "order"
+                     :type  "ordinal"}}
+ :mark      {:type    "bar"
+             :tooltip true}}

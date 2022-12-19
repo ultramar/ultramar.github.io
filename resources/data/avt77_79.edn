@@ -1,0 +1,19 @@
+{:source {:title     "A Vitória Traída",
+          :author    ["Joaquim da Luz Cunha"
+                      "Kaúlza de Arriaga"
+                      "Bethencourt Rodrigues"
+                      "Silvino Silvério Marques"],
+          :publisher "Intervenção",
+          :year      "1977",
+          :page      79},
+ :title  "FALTOSOS, COMPELIDOS E REFRACTÁRIOS DO\nCONTINGENTE GERAL DE PORTUGAL EUROPEU"
+ :notes  ["VII QUADRO"],
+ :data   [{"Período"                                                                 "1958-1960",
+           "Percentagem de Faltosos em relação aos Incorporados"                     40,
+           "Percentagem de Compelidos e de Refractários em relação aos Incorporados" 2.8} ;; a) índice estimado a partir do número de faltosos.
+          {"Período"                                                                 "1961-1973",
+           "Percentagem de Faltosos em relação aos Incorporados"                     29,
+           "Percentagem de Compelidos e de Refractários em relação aos Incorporados" 2.1}
+          {"Período"                                                                 "1974-1977",
+           "Percentagem de Faltosos em relação aos Incorporados"                     49,
+           "Percentagem de Compelidos e de Refractários em relação aos Incorporados" 3.3}]}
