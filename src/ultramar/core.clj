@@ -122,7 +122,9 @@
 
      [:script {:src "https://cdn.jsdelivr.net/npm/vega@5.22.1"}]
      [:script {:src "https://cdn.jsdelivr.net/npm/vega-lite@5.6.0"}]
-     [:script {:src "https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"}]]
+     [:script {:src "https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"}]
+
+     [:script {:data-goatcounter "https://ultramar.goatcounter.com/count" :async "true" :src "//gc.zgo.at/count.js"}]]
 
     [:body
 
