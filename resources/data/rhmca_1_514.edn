@@ -1,0 +1,25 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      514}
+ :notes  ["Milhares de contos"]
+ :title  "Percentagem das Despesas Ordinárias do Exército, relativamente às Despesas Ordinárias da Nação"
+ :unit   "Milhares de contos"
+ :data   [{"Ano" 1960, "Estado" 7777.6, "Exército" 833.8, "Percentagem" 10.7}
+          {"Ano" 1961, "Estado" 8005.8, "Exército" 846.0, "Percentagem" 10.6}
+          {"Ano" 1962, "Estado" 8295.7, "Exército" 898.6, "Percentagem" 10.8}
+          {"Ano" 1963, "Estado" 8886.5, "Exército" 939.0, "Percentagem" 10.6}
+          {"Ano" 1964, "Estado" 9594.7, "Exército" 1043.5, "Percentagem" 10.9}
+          {"Ano" 1965, "Estado" 10424.4, "Exército" 985.3, "Percentagem" 9.5}
+          {"Ano" 1966, "Estado" 11585.9, "Exército" 1148.7, "Percentagem" 9.9}
+          {"Ano" 1967, "Estado" 13081.5, "Exército" 1195.9, "Percentagem" 9.1}
+          {"Ano" 1968, "Estado" 13887.3, "Exército" 1261.3, "Percentagem" 9.1}
+          {"Ano" 1969, "Estado" 15111.9, "Exército" 1332.1, "Percentagem" 8.8}
+          {"Ano" 1970, "Estado" 17633.5, "Exército" 1576.8, "Percentagem" 8.9}
+          {"Ano" 1971, "Estado" 19650.1, "Exército" 1587.7, "Percentagem" 8.1}
+          {"Ano" 1972, "Estado" 23003.6, "Exército" 1807.6, "Percentagem" 7.8}
+          {"Ano" 1973, "Estado" 27498.6, "Exército" 2000.2, "Percentagem" 7.3}
+          {"Ano" 1974, "Estado" 35594.0, "Exército" 2861.4, "Percentagem" 8.0}
+          {"Ano" 1975, "Estado" 52563.7, "Exército" 4632.0, "Percentagem" 8.1}]
+ }

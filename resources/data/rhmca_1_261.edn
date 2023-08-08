@@ -1,0 +1,47 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      261}
+ :notes  []
+ :title  "Recrutamento nos 3 Teatros de Operações"
+ :data   [{"Ano" 1961, "Teatro" "Angola", "Efectivo" 33477.0, "Recrutamento Local" 5000.0, "Percentagem" 14.9}
+          {"Ano" 1962, "Teatro" "Angola", "Efectivo" 44925.0, "Recrutamento Local" 11165.0, "Percentagem" 24.9}
+          {"Ano" 1963, "Teatro" "Angola", "Efectivo" 47400.0, "Recrutamento Local" 12870.0, "Percentagem" 27.2}
+          {"Ano" 1964, "Teatro" "Angola", "Efectivo" 52493.0, "Recrutamento Local" 15075.0, "Percentagem" 28.7}
+          {"Ano" 1965, "Teatro" "Angola", "Efectivo" 57073.0, "Recrutamento Local" 15448.0, "Percentagem" 27.1}
+          {"Ano" 1966, "Teatro" "Angola", "Efectivo" 55816.0, "Recrutamento Local" 17297.0, "Percentagem" 31.0}
+          {"Ano" 1967, "Teatro" "Angola", "Efectivo" 57420.0, "Recrutamento Local" 14369.0, "Percentagem" 25.0}
+          {"Ano" 1968, "Teatro" "Angola", "Efectivo" 58230.0, "Recrutamento Local" 20683.0, "Percentagem" 35.5}
+          {"Ano" 1969, "Teatro" "Angola", "Efectivo" 55574.0, "Recrutamento Local" 18663.0, "Percentagem" 33.6}
+          {"Ano" 1970, "Teatro" "Angola", "Efectivo" 55233.0, "Recrutamento Local" 19059.0, "Percentagem" 34.5}
+          {"Ano" 1971, "Teatro" "Angola", "Efectivo" 62060.0, "Recrutamento Local" 25933.0, "Percentagem" 41.8}
+          {"Ano" 1972, "Teatro" "Angola", "Efectivo" 60317.0, "Recrutamento Local" 25461.0, "Percentagem" 42.2}
+          {"Ano" 1973, "Teatro" "Angola", "Efectivo" 65592.0, "Recrutamento Local" 27819.0, "Percentagem" 42.4}
+          {"Ano" 1961, "Teatro" "Moçambique", "Efectivo" 11209.0, "Recrutamento Local" 3000.0, "Percentagem" 26.8}
+          {"Ano" 1962, "Teatro" "Moçambique", "Efectivo" 11852.0, "Recrutamento Local" 3000.0, "Percentagem" 25.3}
+          {"Ano" 1963, "Teatro" "Moçambique", "Efectivo" 14246.0, "Recrutamento Local" 5003.0, "Percentagem" 35.1}
+          {"Ano" 1964, "Teatro" "Moçambique", "Efectivo" 18049.0, "Recrutamento Local" 7917.0, "Percentagem" 43.9}
+          {"Ano" 1965, "Teatro" "Moçambique", "Efectivo" 22856.0, "Recrutamento Local" 9701.0, "Percentagem" 42.4}
+          {"Ano" 1966, "Teatro" "Moçambique", "Efectivo" 30588.0, "Recrutamento Local" 11038.0, "Percentagem" 36.1}
+          {"Ano" 1967, "Teatro" "Moçambique", "Efectivo" 34721.0, "Recrutamento Local" 11557.0, "Percentagem" 33.3}
+          {"Ano" 1968, "Teatro" "Moçambique", "Efectivo" 36615.0, "Recrutamento Local" 13898.0, "Percentagem" 38.0}
+          {"Ano" 1969, "Teatro" "Moçambique", "Efectivo" 39096.0, "Recrutamento Local" 15810.0, "Percentagem" 40.4}
+          {"Ano" 1970, "Teatro" "Moçambique", "Efectivo" 38712.0, "Recrutamento Local" 16079.0, "Percentagem" 41.5}
+          {"Ano" 1971, "Teatro" "Moçambique", "Efectivo" 44505.0, "Recrutamento Local" 22710.0, "Percentagem" 51.0}
+          {"Ano" 1972, "Teatro" "Moçambique", "Efectivo" 46723.0, "Recrutamento Local" 24066.0, "Percentagem" 51.5}
+          {"Ano" 1973, "Teatro" "Moçambique", "Efectivo" 51463.0, "Recrutamento Local" 27572.0, "Percentagem" 53.6}
+          {"Ano" 1961, "Teatro" "Guiné", "Efectivo" 4736.0, "Recrutamento Local" 1000.0, "Percentagem" 21.1}
+          {"Ano" 1962, "Teatro" "Guiné", "Efectivo" 5070.0, "Recrutamento Local" 1000.0, "Percentagem" 19.7}
+          {"Ano" 1963, "Teatro" "Guiné", "Efectivo" 9650.0, "Recrutamento Local" 1314.0, "Percentagem" 13.6}
+          {"Ano" 1964, "Teatro" "Guiné", "Efectivo" 15195.0, "Recrutamento Local" 2.321, "Percentagem" 15.3}
+          {"Ano" 1965, "Teatro" "Guiné", "Efectivo" 17252.0, "Recrutamento Local" 2.612, "Percentagem" 15.1}
+          {"Ano" 1966, "Teatro" "Guiné", "Efectivo" 20801.0, "Recrutamento Local" 1933.0, "Percentagem" 9.3}
+          {"Ano" 1967, "Teatro" "Guiné", "Efectivo" 21650.0, "Recrutamento Local" 3229.0, "Percentagem" 14.9}
+          {"Ano" 1968, "Teatro" "Guiné", "Efectivo" 228.39, "Recrutamento Local" 3280.0, "Percentagem" 14.4}
+          {"Ano" 1969, "Teatro" "Guiné", "Efectivo" 26581.0, "Recrutamento Local" 3.715, "Percentagem" 14.0}
+          {"Ano" 1970, "Teatro" "Guiné", "Efectivo" 26775.0, "Recrutamento Local" 4268.0, "Percentagem" 16.0}
+          {"Ano" 1971, "Teatro" "Guiné", "Efectivo" 29210.0, "Recrutamento Local" 5808.0, "Percentagem" 19.9}
+          {"Ano" 1972, "Teatro" "Guiné", "Efectivo" 29957.0, "Recrutamento Local" 5.921, "Percentagem" 19.8}
+          {"Ano" 1973, "Teatro" "Guiné", "Efectivo" 32035.0, "Recrutamento Local" 6425.0, "Percentagem" 20.1}]
+ }

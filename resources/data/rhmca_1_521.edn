@@ -1,0 +1,40 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      521}
+ :notes  []
+ :title  "Verba atribuída ao Exército para o Plano de Aquisição de Equipamento"
+ :unit   "Contos"
+ :data   [{"Ano do Diploma" "1964",
+           "1964"           600000,
+           "1965"           500000,
+           "1966"           400000,
+           "Total"          1500000}
+          {"Ano do Diploma" "1965",
+           "1965"           350000,
+           "1966"           350000,
+           "1967"           300000,
+           "1968"           300000,
+           "Total"          1300000}
+          {"Ano do Diploma" "1966",
+           "1966"           200000,
+           "1967"           285000,
+           "1968"           300000,
+           "1969"           312000,
+           "Total"          1097000}
+          {"Ano do Diploma" "1967",
+           "1967"           375000,
+           "1968"           540000,
+           "1969"           505000,
+           "1970"           458000,
+           "Total"          1878000}
+          {"Ano do Diploma" "Total atribuído para cada ano",
+           "1964"           600000,
+           "1965"           850000,
+           "1966"           950000,
+           "1967"           960000,
+           "1968"           1140000,
+           "1969"           817000,
+           "1970"           458000,}]
+ }

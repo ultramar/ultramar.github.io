@@ -1,0 +1,37 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      522}
+ :notes  []
+ :title  "Verbas atribuídas ao Ministério da Defesa para o Plano de Aquisição de Equipamento do Exército e da força Aérea"
+ :unit   "Contos"
+ :data   [{"Ano do Diploma" 1968
+           "1968"           1000000
+           "1969"           1000000}
+          {"Ano do Diploma" 1969
+           "1970"           1000000,
+           "1971"           1000000,}
+          {"Ano do Diploma" 1970
+           "1971"           500000
+           "1972"           1000000}
+          {"Ano do Diploma" 1971
+           "1972"           500000
+           "1973"           1000000,}
+          {"Ano do Diploma" 1972
+           "1973"           500000
+           "1974"           1500000}
+          {"Ano do Diploma" 1973
+           "1974"           500000
+           "1975"           1000000}
+          {"Ano do Diploma" 1974
+           "1974"           600438}
+          {"Ano do Diploma" "Total"
+           "1968"           1000000
+           "1969"           1000000
+           "1970"           1000000
+           "1971"           1500000
+           "1972"           1500000
+           "1973"           1500000
+           "1974"           2600438
+           "1975"           1000000}]}

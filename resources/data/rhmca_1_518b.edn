@@ -1,0 +1,25 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      518}
+ :notes  ["Quadro N.º 8"]
+ :title  "Encargos com as Forças Militares Extraordinárias no Ultramar (OFMEU)"
+ :unit   "Milhares de contos"
+ :data   [{"Ano" 1960, "Inscritas inicialmente no Orçamento" 280, "Pagas" 526.0}
+          {"Ano" 1961, "Inscritas inicialmente no Orçamento" 950, "Pagas" 2427.7}
+          {"Ano" 1962, "Inscritas inicialmente no Orçamento" 1500, "Pagas" 3264.5}
+          {"Ano" 1963, "Inscritas inicialmente no Orçamento" 1750, "Pagas" 3354.9}
+          {"Ano" 1964, "Inscritas inicialmente no Orçamento" 1750, "Pagas" 3592.3}
+          {"Ano" 1965, "Inscritas inicialmente no Orçamento" 2000, "Pagas" 4155.7}
+          {"Ano" 1966, "Inscritas inicialmente no Orçamento" 2500, "Pagas" 4466.8}
+          {"Ano" 1967, "Inscritas inicialmente no Orçamento" 3500, "Pagas" 5753.3}
+          {"Ano" 1968, "Inscritas inicialmente no Orçamento" 4000, "Pagas" 6197.4}
+          {"Ano" 1969, "Inscritas inicialmente no Orçamento" 4000, "Pagas" 6084.9}
+          {"Ano" 1970, "Inscritas inicialmente no Orçamento" 4000, "Pagas" 6899.1}
+          {"Ano" 1971, "Inscritas inicialmente no Orçamento" 4000, "Pagas" 7129.9}
+          {"Ano" 1972, "Inscritas inicialmente no Orçamento" 4500, "Pagas" 7649.2}
+          {"Ano" 1973, "Inscritas inicialmente no Orçamento" 5000, "Pagas" 7527.5}
+          {"Ano" 1974, "Inscritas inicialmente no Orçamento" 5000, "Pagas" 11848.2}
+          {"Ano" 1975, "Inscritas inicialmente no Orçamento" 7100, "Pagas" 6823.1}]
+ }

@@ -1,0 +1,105 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      512}
+ :notes  []
+ :title  "Total das Despesas Ordinárias com a Defesa Nacional"
+ :unit   "Milhares de contos"
+ :data   [{"Ano"                             1960,
+           "Exército"                        833.8,
+           "Marinha"                         603.3,
+           "Força Aérea"                     375.7,
+           "Departamento da Defesa e outros" 20.3,
+           "Total"                           1833.1}
+          {"Ano"                             1961,
+           "Exército"                        846.0,
+           "Marinha"                         590.0,
+           "Força Aérea"                     364.5,
+           "Departamento da Defesa e outros" 27.3,
+           "Total"                           1827.1}
+          {"Ano"                             1962,
+           "Exército"                        898.6,
+           "Marinha"                         616.0,
+           "Força Aérea"                     377.3,
+           "Departamento da Defesa e outros" 27.7,
+           "Total"                           1919.6}
+          {"Ano"                             1963,
+           "Exército"                        939.0,
+           "Marinha"                         662.7,
+           "Força Aérea"                     377.2,
+           "Departamento da Defesa e outros" 28.4,
+           "Total"                           2007.3}
+          {"Ano"                             1964,
+           "Exército"                        1043.5,
+           "Marinha"                         704.7,
+           "Força Aérea"                     408.5,
+           "Departamento da Defesa e outros" 28.3,
+           "Total"                           2185.0}
+          {"Ano"                             1965,
+           "Exército"                        985.3,
+           "Marinha"                         747.6,
+           "Força Aérea"                     431.0,
+           "Departamento da Defesa e outros" 28.3,
+           "Total"                           2192.2}
+          {"Ano"                             1966,
+           "Exército"                        1148.7,
+           "Marinha"                         851.7,
+           "Força Aérea"                     442.5,
+           "Departamento da Defesa e outros" 28.9,
+           "Total"                           2471.8}
+          {"Ano"                             1967,
+           "Exército"                        1195.9,
+           "Marinha"                         953.1,
+           "Força Aérea"                     444.8,
+           "Departamento da Defesa e outros" 29.7,
+           "Total"                           2623.5}
+          {"Ano"                             1968,
+           "Exército"                        1261.3,
+           "Marinha"                         1014.2,
+           "Força Aérea"                     456.1,
+           "Departamento da Defesa e outros" 61.0,
+           "Total"                           2892.6}
+          {"Ano"                             1969,
+           "Exército"                        1332.1,
+           "Marinha"                         1072.1,
+           "Força Aérea"                     483.4,
+           "Departamento da Defesa e outros" 49.1,
+           "Total"                           2936.7}
+          {"Ano"                             1970,
+           "Exército"                        1576.8,
+           "Marinha"                         1285.0,
+           "Força Aérea"                     588.5,
+           "Departamento da Defesa e outros" 55.8,
+           "Total"                           3506.1}
+          {"Ano"                             1971,
+           "Exército"                        1587.7,
+           "Marinha"                         1447.9,
+           "Força Aérea"                     628.2,
+           "Departamento da Defesa e outros" 66.8,
+           "Total"                           3730.6}
+          {"Ano"                             1972,
+           "Exército"                        1807.6,
+           "Marinha"                         1695.3,
+           "Força Aérea"                     691.8,
+           "Departamento da Defesa e outros" 71.4,
+           "Total"                           4266.1}
+          {"Ano"                             1973,
+           "Exército"                        2000.2,
+           "Marinha"                         1916.0,
+           "Força Aérea"                     715.3,
+           "Departamento da Defesa e outros" 74.6,
+           "Total"                           4706.1}
+          {"Ano"                             1974,
+           "Exército"                        2861.4,
+           "Marinha"                         2498.3,
+           "Força Aérea"                     948.3,
+           "Departamento da Defesa e outros" 93.7,
+           "Total"                           6401.7}
+          {"Ano"                             1975,
+           "Exército"                        4632.0,
+           "Marinha"                         2953.8,
+           "Força Aérea"                     1438.4,
+           "Departamento da Defesa e outros" 220.9,
+           "Total"                           9245.1}]
+ }

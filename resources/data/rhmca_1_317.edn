@@ -1,0 +1,24 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      317}
+ :notes  []
+ :data   [{"Quadro" "Quadro do Serviço Geral do Exército",
+           "1966"   26,
+           "1967"   102,
+           "1968"   189,
+           "1969"   211,
+           "1970"   195,
+           "1971"   148,
+           "1972"   140}
+          {"Quadro" "Quadros do Serviço de Transmissões e Material",
+           "1966"   16,
+           "1967"   16,
+           "1968"   47,
+           "1969"   50,
+           "1970"   31,
+           "1971"   39,
+           "1972"   60}
+          {"Quadro" "Soma", "1966" 42, "1967" 118, "1968" 236, "1969" 261, "1970" 226, "1971" 287, "1972" 200}]
+ }

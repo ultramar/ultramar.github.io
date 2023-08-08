@@ -1,0 +1,13 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      527}
+ :notes  ["Os 42 atribuídos a \"Restantes Encargos\" comportavam a compra de todo o armamento, equipamento, material de aquartelamento, alojamento, assistência religiosa, sanitária e social, combustíveis e lubrificantes, água, luz, correios e telefones."]
+ :title  "Valor médio da verba aproximada por dia e por homem em 1965"
+ :unit   "Escudos"
+ :data   [{"Tipo" "Vencimento e subsídio de campanha", "Preço médio/homem/dia" 35}
+          {"Tipo" "Alimentação", "Preço médio/homem/dia" 23}
+          {"Tipo" "Fardamento", "Preço médio/homem/dia" 5}
+          {"Tipo" "Transporte por via marítima", "Preço médio/homem/dia" 10}
+          {"Tipo" "Restantes encargos", "Preço médio/homem/dia" 42}]}

@@ -1,0 +1,22 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      259}
+ :notes  []
+ :title  "Quadro de Efectivos Metropolitanos em Reforço dos 3 Teatros de Operações"
+ :data   [{"Ano" 1960, "Angola" nil, "Moçambique" nil, "Guiné" nil, "Total" nil}
+          {"Ano" 1961, "Angola" 33477, "Moçambique" 11209, "Guiné" 4736, "Total" 49422}
+          {"Ano" 1962, "Angola" 44925, "Moçambique" 11852, "Guiné" 5070, "Total" 61847}
+          {"Ano" 1963, "Angola" 47400, "Moçambique" 14246, "Guiné" 9650, "Total" 71296}
+          {"Ano" 1964, "Angola" 52493, "Moçambique" 18049, "Guiné" 15195, "Total" 85737}
+          {"Ano" 1965, "Angola" 57073, "Moçambique" 22856, "Guiné" 17252, "Total" 97181}
+          {"Ano" 1966, "Angola" 55816, "Moçambique" 30588, "Guiné" 20801, "Total" 107205}
+          {"Ano" 1967, "Angola" 57420, "Moçambique" 34721, "Guiné" 21650, "Total" 113791}
+          {"Ano" 1968, "Angola" 58230, "Moçambique" 36615, "Guiné" 22839, "Total" 117684}
+          {"Ano" 1969, "Angola" 55574, "Moçambique" 39096, "Guiné" 26581, "Total" 121251}
+          {"Ano" 1970, "Angola" 55233, "Moçambique" 38712, "Guiné" 26775, "Total" 120720}
+          {"Ano" 1971, "Angola" 62060, "Moçambique" 44505, "Guiné" 29210, "Total" 135775}
+          {"Ano" 1972, "Angola" 60317, "Moçambique" 46723, "Guiné" 29957, "Total" 136997}
+          {"Ano" 1973, "Angola" 65592, "Moçambique" 51463, "Guiné" 32035, "Total" 149090}]
+ }

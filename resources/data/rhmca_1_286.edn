@@ -1,0 +1,12 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      286}
+ :notes  []
+ :title  "Verbas dispendidas em viaturas novas"
+ :data   [{"Plano" 1964, "Verba despendida" 480000, "Verba Global" 1500000, "Percentagem" 32}
+          {"Plano" 1965, "Verba despendida" 483000, "Verba Global" 1300000, "Percentagem" 37}
+          {"Plano" 1966, "Verba despendida" 400000, "Verba Global" 1097000, "Percentagem" 36}
+          {"Plano" 1967, "Verba despendida" 560000, "Verba Global" 1778000, "Percentagem" 32}]
+ }

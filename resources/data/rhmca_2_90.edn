@@ -1,0 +1,36 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1997"
+          :volume    "2º Volume - Dispositivo das Nossas Forças - Angola"
+          :page      90}
+ :notes  []
+ :title  "Distribuição de unidades em quadrícula em Dezembro de 1961"
+ :data   [{"Zona/Sector"                         "ZIN/SO1",
+           "Batalhões"                           2,
+           "Total de Companhias Operacionais"    10,
+           "Batalhões de Artilharia de Campanha" nil}
+          {"Zona/Sector"                         "ZIN/SO2",
+           "Batalhões"                           8,
+           "Total de Companhias Operacionais"    27,
+           "Batalhões de Artilharia de Campanha" 1}
+          {"Zona/Sector"                         "ZIN/SO3",
+           "Batalhões"                           4,
+           "Total de Companhias Operacionais"    21,
+           "Batalhões de Artilharia de Campanha" 2}
+          {"Zona/Sector"                         "ZIN/SO4",
+           "Batalhões"                           4,
+           "Total de Companhias Operacionais"    15,
+           "Batalhões de Artilharia de Campanha" nil}
+          {"Zona/Sector"                         "ZIN/SO5",
+           "Batalhões"                           1,
+           "Total de Companhias Operacionais"    5,
+           "Batalhões de Artilharia de Campanha" nil}
+          {"Zona/Sector"                         "ZIN/SO6",
+           "Batalhões"                           1,
+           "Total de Companhias Operacionais"    5,
+           "Batalhões de Artilharia de Campanha" nil}
+          {"Zona/Sector" "ZIN L", "Batalhões" 5, "Total de Companhias Operacionais" 15, "Batalhões de Artilharia de Campanha" 2}
+          {"Zona/Sector" "ZIL", "Batalhões" 1, "Total de Companhias Operacionais" 5, "Batalhões de Artilharia de Campanha" nil}
+          {"Zona/Sector" "ZIC", "Batalhões" 1, "Total de Companhias Operacionais" 3, "Batalhões de Artilharia de Campanha" 2}
+          {"Zona/Sector" "ZIS", "Batalhões" 1, "Total de Companhias Operacionais" 1, "Batalhões de Artilharia de Campanha" 2}]
+ }

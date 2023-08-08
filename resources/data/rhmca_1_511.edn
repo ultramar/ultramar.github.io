@@ -1,0 +1,25 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      511}
+ :notes  []
+ :title  "Total das Despesas Ordinárias do Exército"
+ :unit   "Milhares de contos"
+ :data   [{"Ano" 1960, "Verbas Orçamentadas" 851.019, "Verbas Dispendidas" 833.8}
+          {"Ano" 1961, "Verbas Orçamentadas" 867.47, "Verbas Dispendidas" 846.0}
+          {"Ano" 1962, "Verbas Orçamentadas" 884.0, "Verbas Dispendidas" 898.6}
+          {"Ano" 1963, "Verbas Orçamentadas" 916.3, "Verbas Dispendidas" 939.0}
+          {"Ano" 1964, "Verbas Orçamentadas" 987.1, "Verbas Dispendidas" 1043.5}
+          {"Ano" 1965, "Verbas Orçamentadas" 1059.3, "Verbas Dispendidas" 985.3}
+          {"Ano" 1966, "Verbas Orçamentadas" 1070.9, "Verbas Dispendidas" 1148.7}
+          {"Ano" 1967, "Verbas Orçamentadas" 1201.8, "Verbas Dispendidas" 1195.9}
+          {"Ano" 1968, "Verbas Orçamentadas" 1280.9, "Verbas Dispendidas" 1261.3}
+          {"Ano" 1969, "Verbas Orçamentadas" 1374.7, "Verbas Dispendidas" 1332.1}
+          {"Ano" 1970, "Verbas Orçamentadas" 1581.5, "Verbas Dispendidas" 1576.8}
+          {"Ano" 1971, "Verbas Orçamentadas" 1629.3, "Verbas Dispendidas" 1587.7}
+          {"Ano" 1972, "Verbas Orçamentadas" 1679.4, "Verbas Dispendidas" 1807.7}
+          {"Ano" 1973, "Verbas Orçamentadas" 1740.9, "Verbas Dispendidas" 2000.2}
+          {"Ano" 1974, "Verbas Orçamentadas" 2076.2, "Verbas Dispendidas" 2861.4}
+          {"Ano" 1975, "Verbas Orçamentadas" 3804.0, "Verbas Dispendidas" 4632.0}]
+ }

@@ -1,0 +1,24 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      519}
+ :notes  []
+ :title  "Verbas do Orçamento das Forças Militares Extraordinárias do Ultramar do Exército"
+ :unit   "Milhares de contos"
+ :data   [{"Ano" 1961, "Verba orçamentada e dispendida" 1026.1}
+          {"Ano" 1962, "Verba orçamentada e dispendida" 1946.4}
+          {"Ano" 1963, "Verba orçamentada e dispendida" 2592.3}
+          {"Ano" 1964, "Verba orçamentada e dispendida" 2523.8}
+          {"Ano" 1965, "Verba orçamentada e dispendida" 3346.0}
+          {"Ano" 1966, "Verba orçamentada e dispendida" 3295.0}
+          {"Ano" 1967, "Verba orçamentada e dispendida" 4242.2}
+          {"Ano" 1968, "Verba orçamentada e dispendida" 4607.6}
+          {"Ano" 1969, "Verba orçamentada e dispendida" 4361.6}
+          {"Ano" 1970, "Verba orçamentada e dispendida" 4474.0}
+          {"Ano" 1971, "Verba orçamentada e dispendida" 4537.0}
+          {"Ano" 1972, "Verba orçamentada e dispendida" 4913.4}
+          {"Ano" 1973, "Verba orçamentada e dispendida" 6430.9}
+          {"Ano" 1974, "Verba orçamentada e dispendida" 8477.9}
+          {"Ano" 1975, "Verba orçamentada e dispendida" 4682.6}]
+ }

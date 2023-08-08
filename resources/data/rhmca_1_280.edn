@@ -1,0 +1,18 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      280}
+ :notes  []
+ :unit   "Escudos"
+ :data   [{"Estabelecimento fabril do Exército"      "Oficinas Gerais de Material de Engenharia (OGME)",
+           "Valor das encomendas a executar em 1964" 6475000}
+          {"Estabelecimento fabril do Exército"      "Fábrica Nacional de Munições de Armas Ligeiras (FNMAL)",
+           "Valor das encomendas a executar em 1964" 58930000}
+          {"Estabelecimento fabril do Exército"      "Fábrica Militar de Equipamentos e Arreios",
+           "Valor das encomendas a executar em 1964" 36500000}
+          {"Estabelecimento fabril do Exército"      "Oficinas Gerais de Fardamento (OGF)",
+           "Valor das encomendas a executar em 1964" 115000000}
+          {"Estabelecimento fabril do Exército"      "Fábrica Militar de Braço de Prata (FMBP)",
+           "Valor das encomendas a executar em 1964" 139175000}]
+ }

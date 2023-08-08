@@ -1,0 +1,128 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      264}
+ :notes  []
+ :title  "Mortos em Angola"
+ :data   [{"Ano" 1961, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 109}
+          {"Ano" 1962, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 112}
+          {"Ano" 1963, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 78}
+          {"Ano" 1964, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 99}
+          {"Ano" 1965, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 86}
+          {"Ano" 1966, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 92}
+          {"Ano" 1967, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 84}
+          {"Ano" 1968, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 103}
+          {"Ano" 1969, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 67}
+          {"Ano" 1970, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 66}
+          {"Ano" 1971, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 47}
+          {"Ano" 1972, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 57}
+          {"Ano" 1973, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 33}
+          {"Ano" 1974, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 16}
+          {"Ano" 1974, "Após 24-4-74" "Sim", "Recrutamento" "Metrópole", "Causa" "Combate", "Mortos" 49}
+          {"Ano" 1961, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 17}
+          {"Ano" 1962, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 9}
+          {"Ano" 1963, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 5}
+          {"Ano" 1964, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 4}
+          {"Ano" 1965, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 7}
+          {"Ano" 1966, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 14}
+          {"Ano" 1967, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 17}
+          {"Ano" 1968, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 15}
+          {"Ano" 1969, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 28}
+          {"Ano" 1970, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 16}
+          {"Ano" 1971, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 6}
+          {"Ano" 1972, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 21}
+          {"Ano" 1973, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 18}
+          {"Ano" 1974, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 13}
+          {"Ano" 1974, "Após 24-4-74" "Sim", "Recrutamento" "Província", "Causa" "Combate", "Mortos" 18}
+          {"Ano" 1961, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 8}
+          {"Ano" 1962, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 11}
+          {"Ano" 1963, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 18}
+          {"Ano" 1964, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 20}
+          {"Ano" 1965, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 14}
+          {"Ano" 1966, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 12}
+          {"Ano" 1967, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 22}
+          {"Ano" 1968, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 21}
+          {"Ano" 1969, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 23}
+          {"Ano" 1970, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 20}
+          {"Ano" 1971, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 20}
+          {"Ano" 1972, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 18}
+          {"Ano" 1973, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 18}
+          {"Ano" 1974, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 1}
+          {"Ano" 1974, "Após 24-4-74" "Sim", "Recrutamento" "Metrópole", "Causa" "Acidente com armas de fogo", "Mortos" 14}
+          {"Ano" 1961, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 3}
+          {"Ano" 1962, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 1}
+          {"Ano" 1963, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 2}
+          {"Ano" 1964, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 4}
+          {"Ano" 1965, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 9}
+          {"Ano" 1966, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 4}
+          {"Ano" 1967, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 4}
+          {"Ano" 1968, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 10}
+          {"Ano" 1969, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 13}
+          {"Ano" 1970, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 9}
+          {"Ano" 1971, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 13}
+          {"Ano" 1972, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 8}
+          {"Ano" 1973, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 6}
+          {"Ano" 1974, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 1}
+          {"Ano" 1974, "Após 24-4-74" "Sim", "Recrutamento" "Província", "Causa" "Acidente com armas de fogo", "Mortos" 17}
+          {"Ano" 1961, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 20}
+          {"Ano" 1962, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 32}
+          {"Ano" 1963, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 23}
+          {"Ano" 1964, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 34}
+          {"Ano" 1965, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 54}
+          {"Ano" 1966, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 36}
+          {"Ano" 1967, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 49}
+          {"Ano" 1968, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 45}
+          {"Ano" 1969, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 58}
+          {"Ano" 1970, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 50}
+          {"Ano" 1971, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 36}
+          {"Ano" 1972, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 46}
+          {"Ano" 1973, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 69}
+          {"Ano" 1974, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 15}
+          {"Ano" 1974, "Após 24-4-74" "Sim", "Recrutamento" "Metrópole", "Causa" "Acidente de viação", "Mortos" 41}
+          {"Ano" 1961, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 4}
+          {"Ano" 1962, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 7}
+          {"Ano" 1963, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 5}
+          {"Ano" 1964, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 9}
+          {"Ano" 1965, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 13}
+          {"Ano" 1966, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 8}
+          {"Ano" 1967, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 12}
+          {"Ano" 1968, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 14}
+          {"Ano" 1969, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 16}
+          {"Ano" 1970, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 26}
+          {"Ano" 1971, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 21}
+          {"Ano" 1972, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 25}
+          {"Ano" 1973, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 36}
+          {"Ano" 1974, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 15}
+          {"Ano" 1974, "Após 24-4-74" "Sim", "Recrutamento" "Província", "Causa" "Acidente de viação", "Mortos" 41}
+          {"Ano" 1961, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 29}
+          {"Ano" 1962, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 24}
+          {"Ano" 1963, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 29}
+          {"Ano" 1964, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 35}
+          {"Ano" 1965, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 38}
+          {"Ano" 1966, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 27}
+          {"Ano" 1967, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 31}
+          {"Ano" 1968, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 40}
+          {"Ano" 1969, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 48}
+          {"Ano" 1970, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 52}
+          {"Ano" 1971, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 38}
+          {"Ano" 1972, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 33}
+          {"Ano" 1973, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 32}
+          {"Ano" 1974, "Após 24-4-74" "Não", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 9}
+          {"Ano" 1974, "Após 24-4-74" "Sim", "Recrutamento" "Metrópole", "Causa" "Outras", "Mortos" 23}
+          {"Ano" 1961, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 4}
+          {"Ano" 1962, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 7}
+          {"Ano" 1963, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 9}
+          {"Ano" 1964, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 3}
+          {"Ano" 1965, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 13}
+          {"Ano" 1966, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 12}
+          {"Ano" 1967, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 23}
+          {"Ano" 1968, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 17}
+          {"Ano" 1969, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 22}
+          {"Ano" 1970, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 29}
+          {"Ano" 1971, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 31}
+          {"Ano" 1972, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 16}
+          {"Ano" 1973, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 30}
+          {"Ano" 1974, "Após 24-4-74" "Não", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 12}
+          {"Ano" 1974, "Após 24-4-74" "Sim", "Recrutamento" "Província", "Causa" "Outras", "Mortos" 32}]
+ }

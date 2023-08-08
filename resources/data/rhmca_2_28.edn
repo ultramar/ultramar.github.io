@@ -1,0 +1,13 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1997"
+          :volume    "2º Volume - Dispositivo das Nossas Forças - Angola"
+          :page      28}
+ :notes  []
+ :title  "Movimento migratório com a Metrópole"
+ :data   [{"ANO" 1959, "ENTRADAS" 42676, "SAÍDAS" 29650, "SALDO" 13026}
+          {"ANO" 1960, "ENTRADAS" 38295, "SAÍDAS" 35222, "SALDO" 3073}
+          {"ANO" 1961, "ENTRADAS" 33785, "SAÍDAS" 47368, "SALDO" -13583}
+          {"ANO" 1962, "ENTRADAS" 48315, "SAÍDAS" 31317, "SALDO" 16998}
+          {"ANO" 1963, "ENTRADAS" 42416, "SAÍDAS" 36325, "SALDO" 6099}]
+ }

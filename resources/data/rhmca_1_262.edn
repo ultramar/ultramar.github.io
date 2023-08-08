@@ -1,0 +1,89 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      262}
+ :notes  []
+ :title  "Distribuição de efectivos por funções em percentagem"
+ :data   [{"Ano" 1964, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 55.0}
+          {"Ano" 1965, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 55.0}
+          {"Ano" 1966, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 55.0}
+          {"Ano" 1967, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 55.0}
+          {"Ano" 1968, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 57.5}
+          {"Ano" 1969, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 62.6}
+          {"Ano" 1970, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 59.0}
+          {"Ano" 1971, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 57.2}
+          {"Ano" 1972, "Teatro" "Angola", "Funções" "Combate", "Efectivos" 56.4}
+          {"Ano" 1964, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.0}
+          {"Ano" 1965, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.0}
+          {"Ano" 1966, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.0}
+          {"Ano" 1967, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.0}
+          {"Ano" 1968, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.0}
+          {"Ano" 1969, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.0}
+          {"Ano" 1970, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.0}
+          {"Ano" 1971, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.0}
+          {"Ano" 1972, "Teatro" "Angola", "Funções" "Apoio de Combate", "Efectivos" 16.9}
+          {"Ano" 1964, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 29.0}
+          {"Ano" 1965, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 29.0}
+          {"Ano" 1966, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 29.0}
+          {"Ano" 1967, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 29.0}
+          {"Ano" 1968, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 26.5}
+          {"Ano" 1969, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 21.4}
+          {"Ano" 1970, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 25.0}
+          {"Ano" 1971, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 26.8}
+          {"Ano" 1972, "Teatro" "Angola", "Funções" "Serviços", "Efectivos" 26.7}
+          {"Ano" 1964, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 53.0}
+          {"Ano" 1965, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 53.0}
+          {"Ano" 1966, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 53.0}
+          {"Ano" 1967, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 53.0}
+          {"Ano" 1968, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 56.1}
+          {"Ano" 1969, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 54.3}
+          {"Ano" 1970, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 59.4}
+          {"Ano" 1971, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 55.6}
+          {"Ano" 1972, "Teatro" "Moçambique", "Funções" "Combate", "Efectivos" 53.4}
+          {"Ano" 1964, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1965, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1966, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1967, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1968, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1969, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1970, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1971, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1972, "Teatro" "Moçambique", "Funções" "Apoio de Combate", "Efectivos" 15.0}
+          {"Ano" 1964, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 32.0}
+          {"Ano" 1965, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 32.0}
+          {"Ano" 1966, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 32.0}
+          {"Ano" 1967, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 32.0}
+          {"Ano" 1968, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 28.9}
+          {"Ano" 1969, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 30.7}
+          {"Ano" 1970, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 25.6}
+          {"Ano" 1971, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 29.4}
+          {"Ano" 1972, "Teatro" "Moçambique", "Funções" "Serviços", "Efectivos" 31.6}
+          {"Ano" 1964, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 69.0}
+          {"Ano" 1965, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 69.0}
+          {"Ano" 1966, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 69.0}
+          {"Ano" 1967, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 69.0}
+          {"Ano" 1968, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 69.0}
+          {"Ano" 1969, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 66.7}
+          {"Ano" 1970, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 67.5}
+          {"Ano" 1971, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 64.5}
+          {"Ano" 1972, "Teatro" "Guiné", "Funções" "Combate", "Efectivos" 69.7}
+          {"Ano" 1964, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 12.0}
+          {"Ano" 1965, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 12.0}
+          {"Ano" 1966, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 12.0}
+          {"Ano" 1967, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 12.0}
+          {"Ano" 1968, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 12.0}
+          {"Ano" 1969, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 12.0}
+          {"Ano" 1970, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 12.0}
+          {"Ano" 1971, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 12.0}
+          {"Ano" 1972, "Teatro" "Guiné", "Funções" "Apoio de Combate", "Efectivos" 11.7}
+          {"Ano" 1964, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 19.0}
+          {"Ano" 1965, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 19.0}
+          {"Ano" 1966, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 19.0}
+          {"Ano" 1967, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 19.0}
+          {"Ano" 1968, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 19.0}
+          {"Ano" 1969, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 21.3}
+          {"Ano" 1970, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 20.5}
+          {"Ano" 1971, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 23.5}
+          {"Ano" 1972, "Teatro" "Guiné", "Funções" "Serviços", "Efectivos" 18.6}]
+ }

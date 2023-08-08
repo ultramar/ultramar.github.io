@@ -1,0 +1,57 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1997"
+          :volume    "2º Volume - Dispositivo das Nossas Forças - Angola"
+          :page      32}
+ :notes  []
+ :title  "Evangelização em 1970"
+ :data   [{"Dioceses"                  "Arquidiocese de Luanda",
+           "Distritos Correspondentes" "Luanda, Cabinda, Cuanza Norte, Cuanza Sul",
+           "População aproximada"      1300000,
+           "Católicos"                 688000,
+           "% Católicos"               52.9,
+           "Paróquias Missões"         41,
+           "OBS"                       "(11)"}
+          {"Dioceses"                  "Nova Lisboa",
+           "Distritos Correspondentes" "Huambo, Benguela",
+           "População aproximada"      1457300,
+           "Católicos"                 900000,
+           "% Católicos"               61.8,
+           "Paróquias Missões"         68,
+           "OBS"                       "(12)"}
+          {"Dioceses"                  "Silva Porto",
+           "Distritos Correspondentes" "Bié, Cuando-Cubango",
+           "População aproximada"      600000,
+           "Católicos"                 243743,
+           "% Católicos"               40.6,
+           "Paróquias Missões"         27,
+           "OBS"                       "(13)"}
+          {"Dioceses"                  "Sá da Bandeira",
+           "Distritos Correspondentes" "Huíla, Moçâmedes",
+           "População aproximada"      725000,
+           "Católicos"                 330722,
+           "% Católicos"               45.6,
+           "Paróquias Missões"         37,
+           "OBS"                       nil}
+          {"Dioceses"                  "Malanje",
+           "Distritos Correspondentes" "Malanje, Lunda",
+           "População aproximada"      771132,
+           "Católicos"                 142321,
+           "% Católicos"               18.5,
+           "Paróquias Missões"         18,
+           "OBS"                       "(14)"}
+          {"Dioceses"                  "Luso",
+           "Distritos Correspondentes" "Moxico",
+           "População aproximada"      176654,
+           "Católicos"                 22347,
+           "% Católicos"               12.7,
+           "Paróquias Missões"         12,
+           "OBS"                       "(15)"}
+          {"Dioceses"                  "Carmona e S. Salvador",
+           "Distritos Correspondentes" "Zaire, Uíge",
+           "População aproximada"      405000,
+           "Católicos"                 91545,
+           "% Católicos"               22.6,
+           "Paróquias Missões"         11,
+           "OBS"                       "(16)"}]
+ }

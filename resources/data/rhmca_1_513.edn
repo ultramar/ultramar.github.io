@@ -1,0 +1,25 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      513}
+ :notes  ["Milhares de contos"]
+ :title  "Percentagem das Despesas Ordinárias da Defesa Nacional (FA), relativamente às do Estado"
+ :unit   "Milhares de contos"
+ :data   [{"Ano" 1960, "Estado" 7777.6, "Forças Armadas" 1833.1, "Percentagem" 23.6}
+          {"Ano" 1961, "Estado" 8005.1, "Forças Armadas" 1827.8, "Percentagem" 22.8}
+          {"Ano" 1962, "Estado" 8295.6, "Forças Armadas" 1919.6, "Percentagem" 23.1}
+          {"Ano" 1963, "Estado" 8886.5, "Forças Armadas" 2007.3, "Percentagem" 22.6}
+          {"Ano" 1964, "Estado" 9594.7, "Forças Armadas" 2185.0, "Percentagem" 22.8}
+          {"Ano" 1965, "Estado" 10424.4, "Forças Armadas" 2192.2, "Percentagem" 21.0}
+          {"Ano" 1966, "Estado" 11585.9, "Forças Armadas" 2471.8, "Percentagem" 21.3}
+          {"Ano" 1967, "Estado" 13081.5, "Forças Armadas" 2623.5, "Percentagem" 20.0}
+          {"Ano" 1968, "Estado" 13887.3, "Forças Armadas" 2892.6, "Percentagem" 20.8}
+          {"Ano" 1969, "Estado" 15111.9, "Forças Armadas" 2936.7, "Percentagem" 19.4}
+          {"Ano" 1970, "Estado" 17633.5, "Forças Armadas" 3506.1, "Percentagem" 19.9}
+          {"Ano" 1971, "Estado" 19650.1, "Forças Armadas" 3730.6, "Percentagem" 19.0}
+          {"Ano" 1972, "Estado" 23009.6, "Forças Armadas" 4266.1, "Percentagem" 18.5}
+          {"Ano" 1973, "Estado" 27498.6, "Forças Armadas" 4706.1, "Percentagem" 17.1}
+          {"Ano" 1974, "Estado" 35594.0, "Forças Armadas" 6401.7, "Percentagem" 18.0}
+          {"Ano" 1975, "Estado" 52563.7, "Forças Armadas" 9245.1, "Percentagem" 17.6}]
+ }

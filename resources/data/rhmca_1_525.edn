@@ -1,0 +1,148 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      525}
+ :notes  []
+ :title  "Aquisições do Ministério do Exército - Origem do Produto Acabado"
+ :unit   "Milhares de contos"
+ :data   [{"Ano" 1964, "Origem" "Nacional", "Produto" "Material de Engenharia", "Preço" 51.5}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Material de Engenharia", "Preço" 35.4}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Material de Engenharia", "Preço" 39.8}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Material de Engenharia", "Preço" 52.8}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Material de Engenharia", "Preço" 59.6}
+          {"Ano" 1963, "Origem" "Estrangeira", "Produto" "Material de Engenharia", "Preço" 29.0}
+          {"Ano" 1964, "Origem" "Estrangeira", "Produto" "Material de Engenharia", "Preço" 46.1}
+          {"Ano" 1965, "Origem" "Estrangeira", "Produto" "Material de Engenharia", "Preço" 76.8}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Material de Engenharia", "Preço" 76.6}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Material de Engenharia", "Preço" 117.2}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Material de Transmissões", "Preço" 10.7}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Material de Transmissões", "Preço" 5.8}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Material de Transmissões", "Preço" 4.2}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Material de Transmissões", "Preço" 10.5}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Material de Transmissões", "Preço" 54.6}
+          {"Ano" 1969, "Origem" "Nacional", "Produto" "Material de Transmissões", "Preço" 22.7}
+          {"Ano" 1964, "Origem" "Estrangeira", "Produto" "Material de Transmissões", "Preço" 58.3}
+          {"Ano" 1965, "Origem" "Estrangeira", "Produto" "Material de Transmissões", "Preço" 48.9}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Material de Transmissões", "Preço" 40.1}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Material de Transmissões", "Preço" 104.8}
+          {"Ano" 1968, "Origem" "Estrangeira", "Produto" "Material de Transmissões", "Preço" 72.4}
+          {"Ano" 1969, "Origem" "Estrangeira", "Produto" "Material de Transmissões", "Preço" 12.0}
+          {"Ano" 1962, "Origem" "Nacional", "Produto" "Material de Guerra", "Preço" 171.3}
+          {"Ano" 1963, "Origem" "Nacional", "Produto" "Material de Guerra", "Preço" 117.3}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Material de Guerra", "Preço" 481.2}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Material de Guerra", "Preço" 98.9}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Material de Guerra", "Preço" 263.0}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Material de Guerra", "Preço" 326.3}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Material de Guerra", "Preço" 790.4}
+          {"Ano" 1969, "Origem" "Nacional", "Produto" "Material de Guerra", "Preço" 856.1}
+          {"Ano" 1962, "Origem" "Estrangeira", "Produto" "Material de Guerra", "Preço" 44.4}
+          {"Ano" 1963, "Origem" "Estrangeira", "Produto" "Material de Guerra", "Preço" 143.8}
+          {"Ano" 1964, "Origem" "Estrangeira", "Produto" "Material de Guerra", "Preço" 502.0}
+          {"Ano" 1965, "Origem" "Estrangeira", "Produto" "Material de Guerra", "Preço" 405.4}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Material de Guerra", "Preço" 773.9}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Material de Guerra", "Preço" 510.2}
+          {"Ano" 1968, "Origem" "Estrangeira", "Produto" "Material de Guerra", "Preço" 487.5}
+          {"Ano" 1969, "Origem" "Estrangeira", "Produto" "Material de Guerra", "Preço" 322.1}
+          {"Ano" 1962, "Origem" "Nacional", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 189.2}
+          {"Ano" 1963, "Origem" "Nacional", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 155.0}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 276.3}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 203.0}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 211.0}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 265.1}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 288.7}
+          {"Ano" 1969, "Origem" "Nacional", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 310.9}
+          {"Ano" 1962, "Origem" "Estrangeira", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 7.2}
+          {"Ano" 1963, "Origem" "Estrangeira", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 2.5}
+          {"Ano" 1964, "Origem" "Estrangeira", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 1.0}
+          {"Ano" 1965, "Origem" "Estrangeira", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 3.2}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 6.1}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 6.8}
+          {"Ano" 1968, "Origem" "Estrangeira", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 7.1}
+          {"Ano" 1969, "Origem" "Estrangeira", "Produto" "Material de Alojamento, Cozinha, Fardamento e Secretaria", "Preço" 5.3}
+          {"Ano" 1962, "Origem" "Nacional", "Produto" "Obras e Aquartelamentos", "Preço" 80.3}
+          {"Ano" 1963, "Origem" "Nacional", "Produto" "Obras e Aquartelamentos", "Preço" 114.7}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Obras e Aquartelamentos", "Preço" 190.6}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Obras e Aquartelamentos", "Preço" 123.8}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Obras e Aquartelamentos", "Preço" 150.0}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Obras e Aquartelamentos", "Preço" 138.3}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Obras e Aquartelamentos", "Preço" 156.2}
+          {"Ano" 1969, "Origem" "Nacional", "Produto" "Obras e Aquartelamentos", "Preço" 193.7}
+          {"Ano" 1962, "Origem" "Nacional", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 13.3}
+          {"Ano" 1963, "Origem" "Nacional", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 8.5}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 9.8}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 15.9}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 16.5}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 19.8}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 20.2}
+          {"Ano" 1969, "Origem" "Nacional", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 21.6}
+          {"Ano" 1962, "Origem" "Estrangeira", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 2.3}
+          {"Ano" 1963, "Origem" "Estrangeira", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 2.7}
+          {"Ano" 1964, "Origem" "Estrangeira", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 1.8}
+          {"Ano" 1965, "Origem" "Estrangeira", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 2.0}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 2.4}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 3.5}
+          {"Ano" 1968, "Origem" "Estrangeira", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 2.3}
+          {"Ano" 1969, "Origem" "Estrangeira", "Produto" "Material Sanitário-Veterinário e Religioso", "Preço" 4.2}
+          {"Ano" 1962, "Origem" "Nacional", "Produto" "Material de Telecomunicações", "Preço" 1.3}
+          {"Ano" 1963, "Origem" "Nacional", "Produto" "Material de Telecomunicações", "Preço" 1.6}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Material de Telecomunicações", "Preço" 3.0}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Material de Telecomunicações", "Preço" 2.8}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Material de Telecomunicações", "Preço" 6.5}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Material de Telecomunicações", "Preço" 5.3}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Material de Telecomunicações", "Preço" 5.2}
+          {"Ano" 1962, "Origem" "Estrangeira", "Produto" "Material de Telecomunicações", "Preço" 2.0}
+          {"Ano" 1963, "Origem" "Estrangeira", "Produto" "Material de Telecomunicações", "Preço" 8.9}
+          {"Ano" 1964, "Origem" "Estrangeira", "Produto" "Material de Telecomunicações", "Preço" 18.5}
+          {"Ano" 1965, "Origem" "Estrangeira", "Produto" "Material de Telecomunicações", "Preço" 6.7}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Material de Telecomunicações", "Preço" 9.5}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Material de Telecomunicações", "Preço" 11.1}
+          {"Ano" 1968, "Origem" "Estrangeira", "Produto" "Material de Telecomunicações", "Preço" 11.0}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 0.1}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 0.1}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 0.2}
+          {"Ano" 1969, "Origem" "Nacional", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 0.1}
+          {"Ano" 1964, "Origem" "Estrangeira", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 1.7}
+          {"Ano" 1965, "Origem" "Estrangeira", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 3.0}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 6.9}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 3.8}
+          {"Ano" 1968, "Origem" "Estrangeira", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 5.8}
+          {"Ano" 1969, "Origem" "Estrangeira", "Produto" "Material de Cifra, Escuta e Reconhecimento de Transmissões", "Preço" 7.9}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Material de Cartografia", "Preço" 0.1}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Material de Cartografia", "Preço" 0.1}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Material de Cartografia", "Preço" 0.2}
+          {"Ano" 1969, "Origem" "Nacional", "Produto" "Material de Cartografia", "Preço" 0.1}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Material de Cartografia", "Preço" 3.3}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Material de Cartografia", "Preço" 2.5}
+          {"Ano" 1968, "Origem" "Estrangeira", "Produto" "Material de Cartografia", "Preço" 0.8}
+          {"Ano" 1969, "Origem" "Estrangeira", "Produto" "Material de Cartografia", "Preço" 0.7}
+          {"Ano" 1962, "Origem" "Nacional", "Produto" "Géneros Alimentícios", "Preço" 168.3}
+          {"Ano" 1963, "Origem" "Nacional", "Produto" "Géneros Alimentícios", "Preço" 201.8}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Géneros Alimentícios", "Preço" 252.3}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Géneros Alimentícios", "Preço" 318.6}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Géneros Alimentícios", "Preço" 330.7}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Géneros Alimentícios", "Preço" 301.3}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Géneros Alimentícios", "Preço" 355.7}
+          {"Ano" 1969, "Origem" "Nacional", "Produto" "Géneros Alimentícios", "Preço" 204.8}
+          {"Ano" 1962, "Origem" "Estrangeira", "Produto" "Géneros Alimentícios", "Preço" 15.0}
+          {"Ano" 1963, "Origem" "Estrangeira", "Produto" "Géneros Alimentícios", "Preço" 18.8}
+          {"Ano" 1964, "Origem" "Estrangeira", "Produto" "Géneros Alimentícios", "Preço" 20.1}
+          {"Ano" 1965, "Origem" "Estrangeira", "Produto" "Géneros Alimentícios", "Preço" 15.1}
+          {"Ano" 1966, "Origem" "Estrangeira", "Produto" "Géneros Alimentícios", "Preço" 39.6}
+          {"Ano" 1967, "Origem" "Estrangeira", "Produto" "Géneros Alimentícios", "Preço" 80.0}
+          {"Ano" 1968, "Origem" "Estrangeira", "Produto" "Géneros Alimentícios", "Preço" 64.3}
+          {"Ano" 1969, "Origem" "Estrangeira", "Produto" "Géneros Alimentícios", "Preço" 42.4}
+          {"Ano" 1962, "Origem" "Nacional", "Produto" "Combustíveis e Lubrificantes", "Preço" 20.0}
+          {"Ano" 1963, "Origem" "Nacional", "Produto" "Combustíveis e Lubrificantes", "Preço" 20.5}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Combustíveis e Lubrificantes", "Preço" 21.0}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Combustíveis e Lubrificantes", "Preço" 22.0}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Combustíveis e Lubrificantes", "Preço" 23.0}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Combustíveis e Lubrificantes", "Preço" 25.0}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Combustíveis e Lubrificantes", "Preço" 24.0}
+          {"Ano" 1962, "Origem" "Nacional", "Produto" "Medicamentos", "Preço" 6.0}
+          {"Ano" 1963, "Origem" "Nacional", "Produto" "Medicamentos", "Preço" 7.0}
+          {"Ano" 1964, "Origem" "Nacional", "Produto" "Medicamentos", "Preço" 8.5}
+          {"Ano" 1965, "Origem" "Nacional", "Produto" "Medicamentos", "Preço" 10.0}
+          {"Ano" 1966, "Origem" "Nacional", "Produto" "Medicamentos", "Preço" 14.0}
+          {"Ano" 1967, "Origem" "Nacional", "Produto" "Medicamentos", "Preço" 16.0}
+          {"Ano" 1968, "Origem" "Nacional", "Produto" "Medicamentos", "Preço" 18.0}]}

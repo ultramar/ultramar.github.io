@@ -1,0 +1,26 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      263}
+ :notes  []
+ :title  "Discriminação dos efectivos em 1964 e 1973"
+ :data   [{"Teatro" "Angola", "Data" "31-12-64", "Categoria" "Oficiais", "Efectivos" 2317}
+          {"Teatro" "Angola", "Data" "31-12-64", "Categoria" "Sargentos", "Efectivos" 5252}
+          {"Teatro" "Angola", "Data" "31-12-64", "Categoria" "Praças", "Efectivos" 44924}
+          {"Teatro" "Angola", "Data" "30-09-73", "Categoria" "Oficiais", "Efectivos" 3128}
+          {"Teatro" "Angola", "Data" "30-09-73", "Categoria" "Sargentos", "Efectivos" 9225}
+          {"Teatro" "Angola", "Data" "30-09-73", "Categoria" "Praças", "Efectivos" 53239}
+          {"Teatro" "Moçambique", "Data" "31-12-64", "Categoria" "Oficiais", "Efectivos" 911}
+          {"Teatro" "Moçambique", "Data" "31-12-64", "Categoria" "Sargentos", "Efectivos" 1953}
+          {"Teatro" "Moçambique", "Data" "31-12-64", "Categoria" "Praças", "Efectivos" 15185}
+          {"Teatro" "Moçambique", "Data" "30-09-73", "Categoria" "Oficiais", "Efectivos" 2504}
+          {"Teatro" "Moçambique", "Data" "30-09-73", "Categoria" "Sargentos", "Efectivos" 5658}
+          {"Teatro" "Moçambique", "Data" "30-09-73", "Categoria" "Praças", "Efectivos" 43301}
+          {"Teatro" "Guiné", "Data" "31-12-64", "Categoria" "Oficiais", "Efectivos" 705}
+          {"Teatro" "Guiné", "Data" "31-12-64", "Categoria" "Sargentos", "Efectivos" 1587}
+          {"Teatro" "Guiné", "Data" "31-12-64", "Categoria" "Praças", "Efectivos" 12903}
+          {"Teatro" "Guiné", "Data" "30-09-73", "Categoria" "Oficiais", "Efectivos" 1557}
+          {"Teatro" "Guiné", "Data" "30-09-73", "Categoria" "Sargentos", "Efectivos" 3575}
+          {"Teatro" "Guiné", "Data" "30-09-73", "Categoria" "Praças", "Efectivos" 26903}]
+ }

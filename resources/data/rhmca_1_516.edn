@@ -1,0 +1,105 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      516}
+ :notes  ["Valores aproximados"]
+ :title  "Extractos da Despesa Ordinária - Encargos Gerais do Ministério do Exército"
+ :unit   "Milhares de contos"
+ :data   [{"Ano"                                                                 1960,
+           "Despesas com pessoal"                                                466,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 52.7,
+           "Despesas com Serviços Clínicos e Hospitalização"                     9,
+           "Despesas com alimentação a praças"                                   70,
+           "Despesas com fardamento e calçado a praças"                          18}
+          {"Ano"                                                                 1961,
+           "Despesas com pessoal"                                                487,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 57.6,
+           "Despesas com Serviços Clínicos e Hospitalização"                     8,
+           "Despesas com alimentação a praças"                                   84,
+           "Despesas com fardamento e calçado a praças"                          28}
+          {"Ano"                                                                 1962,
+           "Despesas com pessoal"                                                484,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 53.9,
+           "Despesas com Serviços Clínicos e Hospitalização"                     8,
+           "Despesas com alimentação a praças"                                   89,
+           "Despesas com fardamento e calçado a praças"                          31}
+          {"Ano"                                                                 1963,
+           "Despesas com pessoal"                                                527,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 56.1,
+           "Despesas com Serviços Clínicos e Hospitalização"                     8,
+           "Despesas com alimentação a praças"                                   109,
+           "Despesas com fardamento e calçado a praças"                          36}
+          {"Ano"                                                                 1964,
+           "Despesas com pessoal"                                                555,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 53.2,
+           "Despesas com Serviços Clínicos e Hospitalização"                     14,
+           "Despesas com alimentação a praças"                                   118,
+           "Despesas com fardamento e calçado a praças"                          36}
+          {"Ano"                                                                 1965,
+           "Despesas com pessoal"                                                546,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 55.4,
+           "Despesas com Serviços Clínicos e Hospitalização"                     9,
+           "Despesas com alimentação a praças"                                   114,
+           "Despesas com fardamento e calçado a praças"                          36}
+          {"Ano"                                                                 1966,
+           "Despesas com pessoal"                                                578,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 50.3,
+           "Despesas com Serviços Clínicos e Hospitalização"                     9,
+           "Despesas com alimentação a praças"                                   117,
+           "Despesas com fardamento e calçado a praças"                          38}
+          {"Ano"                                                                 1967,
+           "Despesas com pessoal"                                                599,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 50.0,
+           "Despesas com Serviços Clínicos e Hospitalização"                     9,
+           "Despesas com alimentação a praças"                                   142,
+           "Despesas com fardamento e calçado a praças"                          41}
+          {"Ano"                                                                 1968,
+           "Despesas com pessoal"                                                602,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 47.7,
+           "Despesas com Serviços Clínicos e Hospitalização"                     10,
+           "Despesas com alimentação a praças"                                   135,
+           "Despesas com fardamento e calçado a praças"                          47}
+          {"Ano"                                                                 1969,
+           "Despesas com pessoal"                                                613,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 46.0,
+           "Despesas com Serviços Clínicos e Hospitalização"                     19,
+           "Despesas com alimentação a praças"                                   152,
+           "Despesas com fardamento e calçado a praças"                          50}
+          {"Ano"                                                                 1970,
+           "Despesas com pessoal"                                                835,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 52.9,
+           "Despesas com Serviços Clínicos e Hospitalização"                     20,
+           "Despesas com alimentação a praças"                                   164,
+           "Despesas com fardamento e calçado a praças"                          92}
+          {"Ano"                                                                 1971,
+           "Despesas com pessoal"                                                872,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 54.9,
+           "Despesas com Serviços Clínicos e Hospitalização"                     37,
+           "Despesas com alimentação a praças"                                   169,
+           "Despesas com fardamento e calçado a praças"                          68}
+          {"Ano"                                                                 1972,
+           "Despesas com pessoal"                                                919,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 50.8,
+           "Despesas com Serviços Clínicos e Hospitalização"                     20,
+           "Despesas com alimentação a praças"                                   198,
+           "Despesas com fardamento e calçado a praças"                          63}
+          {"Ano"                                                                 1973,
+           "Despesas com pessoal"                                                965,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 48.2,
+           "Despesas com Serviços Clínicos e Hospitalização"                     55,
+           "Despesas com alimentação a praças"                                   215,
+           "Despesas com fardamento e calçado a praças"                          60}
+          {"Ano"                                                                 1974,
+           "Despesas com pessoal"                                                1543,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 53.9,
+           "Despesas com Serviços Clínicos e Hospitalização"                     25,
+           "Despesas com alimentação a praças"                                   335,
+           "Despesas com fardamento e calçado a praças"                          60}
+          {"Ano"                                                                 1975,
+           "Despesas com pessoal"                                                2270,
+           "Percentagem das despesas com pessoal relativamente à DO do Exército" 49.0,
+           "Despesas com Serviços Clínicos e Hospitalização"                     41,
+           "Despesas com alimentação a praças"                                   681,
+           "Despesas com fardamento e calçado a praças"                          71}]
+ }

@@ -1,0 +1,16 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      283}
+ :notes  []
+ :data   [{"Região" "Comando Territorial Independente da Guiné", "Viatura" "1/4 Ton", "Atribuídas" 628, "Em falta" 285}
+          {"Região" "Comando Territorial Independente da Guiné", "Viatura" "3/4 Ton", "Atribuídas" 639, "Em falta" 346}
+          {"Região" "Comando Territorial Independente da Guiné", "Viatura" "2 1/2 Ton", "Atribuídas" 380, "Em falta" 113}
+          {"Região" "Região Militar de Angola", "Viatura" "1/4 Ton", "Atribuídas" 2647, "Em falta" 707}
+          {"Região" "Região Militar de Angola", "Viatura" "3/4 Ton", "Atribuídas" 2109, "Em falta" 696}
+          {"Região" "Região Militar de Angola", "Viatura" "2 1/2 Ton", "Atribuídas" 1250, "Em falta" 382}
+          {"Região" "Região Militar de Moçambique", "Viatura" "1/4 Ton", "Atribuídas" 937, "Em falta" 327}
+          {"Região" "Região Militar de Moçambique", "Viatura" "3/4 Ton", "Atribuídas" 973, "Em falta" 265}
+          {"Região" "Região Militar de Moçambique", "Viatura" "2 1/2 Ton", "Atribuídas" 350, "Em falta" 144}]
+ }

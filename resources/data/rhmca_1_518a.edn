@@ -1,0 +1,26 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      518}
+ :notes  ["Quadro N.º 7"
+          "Despesas Extraordinárias da Defesa (FA)"]
+ :title  "Encargos Gerais da Nação — Defesa Nacional"
+ :unit   "Milhares de contos"
+ :data   [{"Ano" 1960, "Inscritas inicialmente no Orçamento" 797.0, "Pagas" 1049.0}
+          {"Ano" 1961, "Inscritas inicialmente no Orçamento" 1656.9, "Pagas" 2076.7}
+          {"Ano" 1962, "Inscritas inicialmente no Orçamento" 2189.9, "Pagas" 3795.4}
+          {"Ano" 1963, "Inscritas inicialmente no Orçamento" 2587.9, "Pagas" 3845.6}
+          {"Ano" 1964, "Inscritas inicialmente no Orçamento" 2600.3, "Pagas" 4367.5}
+          {"Ano" 1965, "Inscritas inicialmente no Orçamento" 3547.0, "Pagas" 5077.4}
+          {"Ano" 1966, "Inscritas inicialmente no Orçamento" 4037.0, "Pagas" 5531.0}
+          {"Ano" 1967, "Inscritas inicialmente no Orçamento" 5373.0, "Pagas" 7174.3}
+          {"Ano" 1968, "Inscritas inicialmente no Orçamento" 5607.0, "Pagas" 7960.5}
+          {"Ano" 1969, "Inscritas inicialmente no Orçamento" 6332.4, "Pagas" 8397.7}
+          {"Ano" 1970, "Inscritas inicialmente no Orçamento" 6342.4, "Pagas" 9460.9}
+          {"Ano" 1971, "Inscritas inicialmente no Orçamento" 7023.1, "Pagas" 10125.8}
+          {"Ano" 1972, "Inscritas inicialmente no Orçamento" 7575.9, "Pagas" 10110.1}
+          {"Ano" 1973, "Inscritas inicialmente no Orçamento" 7708.3, "Pagas" 11884.0}
+          {"Ano" 1974, "Inscritas inicialmente no Orçamento" 8224.6, "Pagas" 14885.3}
+          {"Ano" 1975, "Inscritas inicialmente no Orçamento" 8830.0, "Pagas" 8276.5}]
+ }

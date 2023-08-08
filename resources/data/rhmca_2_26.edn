@@ -1,0 +1,23 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1997"
+          :volume    "2º Volume - Dispositivo das Nossas Forças - Angola"
+          :page      26}
+ :notes  []
+ :title  "População por Distritos em 1960"
+ :data   [{"Distrito" "Huambo", "População" 598441, "Posição no censo de 1970" 1}
+          {"Distrito" "Huila", "População" 595672, "Posição no censo de 1970" 3}
+          {"Distrito" "Benguela", "População" 489039, "Posição no censo de 1970" 6}
+          {"Distrito" "Bié", "População" 453106, "Posição no censo de 1970" 2}
+          {"Distrito" "Malanje", "População" 452285, "Posição no censo de 1970" 5}
+          {"Distrito" "Cuanza Sul", "População" 405564, "Posição no censo de 1970" 7}
+          {"Distrito" "Uige", "População" 399886, "Posição no censo de 1970" 8}
+          {"Distrito" "Luanda", "População" 3499764, "Posição no censo de 1970" 4}
+          {"Distrito" "Moxico", "População" 266709, "Posição no censo de 1970" 11}
+          {"Distrito" "Cuanza Norte", "População" 263600, "Posição no censo de 1970" 10}
+          {"Distrito" "Lunda", "População" 247430, "Posição no censo de 1970" 9}
+          {"Distrito" "Cuando-Cubango", "População" 113063, "Posição no censo de 1970" 12}
+          {"Distrito" "Zaire", "População" 104061, "Posição no censo de 1970" 15}
+          {"Distrito" "Cabinda", "População" 58680, "Posição no censo de 1970" 13}
+          {"Distrito" "Moçâmedes", "População" 43419, "Posição no censo de 1970" 14}]
+ }

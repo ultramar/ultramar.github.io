@@ -1,0 +1,12 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1997"
+          :volume    "2º Volume - Dispositivo das Nossas Forças - Angola"
+          :page      27}
+ :notes  []
+ :title  "Constituição da população em 1960"
+ :data   [{"Tipo" "Negros", "População" 4604362}
+          {"Tipo" "Mestiços", "População" 53392}
+          {"Tipo" "Brancos", "População" 172529}
+          {"Tipo" "Outros", "População" 10436}]
+ }

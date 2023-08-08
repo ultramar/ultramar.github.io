@@ -1,0 +1,15 @@
+{:source {:title     "Resenha Histórico-Militar das Campanhas de África"
+          :publisher "Estado-Maior do Exército - Comissão para o Estudo das Campanhas de África"
+          :year      "1988"
+          :volume    "1º Volume - Enquadramento Geral"
+          :page      523}
+ :notes  []
+ :title  "Verbas pedidas e atribuídas ao Plano de Aquisição de Equipamento de 1964 a 1970"
+ :unit   "Contos"
+ :data   [{"Ano" 1964, "Verba pedida pelo ME" 2200000, "Verba atribuída ao ME" 1500000, "Percentagem atribuída" 67}
+          {"Ano" 1965, "Verba pedida pelo ME" 2018000, "Verba atribuída ao ME" 1300000, "Percentagem atribuída" 64}
+          {"Ano" 1966, "Verba pedida pelo ME" 1350000, "Verba atribuída ao ME" 1097000, "Percentagem atribuída" 81}
+          {"Ano" 1967, "Verba pedida pelo ME" 2200000, "Verba atribuída ao ME" 1878000, "Percentagem atribuída" 85}
+          {"Ano" 1968, "Verba pedida pelo ME" 2649000, "Verba atribuída ao ME" 1800000, "Percentagem atribuída" 68}
+          {"Ano" 1969, "Verba pedida pelo ME" 2990000, "Verba atribuída ao ME" 1800000, "Percentagem atribuída" 60}
+          {"Ano" 1970, "Verba pedida pelo ME" 3865000, "Verba atribuída ao ME" 1800000, "Percentagem atribuída" 47}]}
